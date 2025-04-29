@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Keresés",
+    "searchPlaceholder": "Itt kereshet",
+    "uploadVideo": "Videó feltöltése",
+    "interviewPractice": "Interjú gyakorlás",
+    "resume": "Önéletrajz",
+    "findJob": "Álláskeresés",
+    "loginRegister": "Bejelentkezés/Regisztráció",
+    "language": "Nyelv"
+  },
+  "videoSection": {
+    "hotJobs": "Népszerű állások",
+    "videoResumeDesc": "Töltse fel videó önéletrajzát, hogy megmutassa valódi énjét"
+  },
+  "jobTitles": {
+    "projectDirector": "Projektmenedzser",
+    "projectAssistant": "Projektasszisztens",
+    "mediaOperator": "Médiaoperátor",
+    "videoEditor": "Videószerkesztő",
+    "surveyor": "Földmérő",
+    "designer": "Villatervező",
+    "salesConsultant": "Értékesítési tanácsadó",
+    "marketingConsultant": "Marketing tanácsadó"
+  },
+  "common": {
+    "consult": "Konzultáció",
+    "submitResume": "Önéletrajz beküldése",
+    "viewCount": "{{count}} megtekintés"
+  },
+  "partners": {
+    "title": "Partnervállalatok"
+  },
+  "testimonials": {
+    "title": "Ügyfélvélemények"
+  },
+  "downloadSection": {
+    "title": "Vezetjük a jövőt, globális vízió",
+    "subtitle": "AI toborzás, minden egyezés megbízható"
+  },
+  "banner": {
+    "title": "Keressen munkát rövid videókkal",
+    "subtitle": "Mutassa meg legjobb énjét",
+    "appStoreDownload": "Letöltés az App Store-ból",
+    "googlePlayDownload": "Letöltés a Google Play-ből",
+    "userStats": "{{count}}+ felhasználó találta meg álommunkáját"
+  },
+  "hrVideoSection": {
+    "title": "Videóajánlások vezető HR szakemberektől",
+    "subtitle": "Értse meg, mit gondolnak valójában a HR szakemberek"
+  }
+}

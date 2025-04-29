@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Поиск",
+    "searchPlaceholder": "Вы можете искать здесь",
+    "uploadVideo": "Загрузить видео",
+    "interviewPractice": "Практика собеседования",
+    "resume": "Резюме",
+    "findJob": "Найти работу",
+    "loginRegister": "Вход/Регистрация",
+    "language": "Язык"
+  },
+  "videoSection": {
+    "hotJobs": "Популярные вакансии",
+    "videoResumeDesc": "Загрузите ваше видео-резюме, чтобы показать настоящего себя"
+  },
+  "jobTitles": {
+    "projectDirector": "Директор проекта",
+    "projectAssistant": "Помощник проекта",
+    "mediaOperator": "Медиа-оператор",
+    "videoEditor": "Видеомонтажер",
+    "surveyor": "Геодезист",
+    "designer": "Дизайнер вилл",
+    "salesConsultant": "Консультант по продажам",
+    "marketingConsultant": "Консультант по маркетингу"
+  },
+  "common": {
+    "consult": "Консультация",
+    "submitResume": "Отправить резюме",
+    "viewCount": "{{count}} просмотров"
+  },
+  "partners": {
+    "title": "Компании-партнеры"
+  },
+  "testimonials": {
+    "title": "Отзывы клиентов"
+  },
+  "downloadSection": {
+    "title": "Ведем в будущее, глобальное видение",
+    "subtitle": "ИИ-рекрутинг, каждое совпадение надежно"
+  },
+  "banner": {
+    "title": "Найдите работу с помощью коротких видео",
+    "subtitle": "Покажите себя с лучшей стороны",
+    "appStoreDownload": "Скачать в App Store",
+    "googlePlayDownload": "Скачать в Google Play",
+    "userStats": "{{count}}+ пользователей нашли работу мечты"
+  },
+  "hrVideoSection": {
+    "title": "Видеорекомендации от ведущих HR-специалистов",
+    "subtitle": "Узнайте, что на самом деле думают рекрутеры"
+  }
+}

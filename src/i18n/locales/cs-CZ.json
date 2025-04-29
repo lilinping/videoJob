@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Hledat",
+    "searchPlaceholder": "Zde můžete vyhledávat",
+    "uploadVideo": "Nahrát video",
+    "interviewPractice": "Nácvik pohovoru",
+    "resume": "Životopis",
+    "findJob": "Najít práci",
+    "loginRegister": "Přihlášení/Registrace",
+    "language": "Jazyk"
+  },
+  "videoSection": {
+    "hotJobs": "Populární pracovní místa",
+    "videoResumeDesc": "Nahrajte svůj video životopis a ukažte své pravé já"
+  },
+  "jobTitles": {
+    "projectDirector": "Ředitel projektu",
+    "projectAssistant": "Projektový asistent",
+    "mediaOperator": "Mediální operátor",
+    "videoEditor": "Editor videa",
+    "surveyor": "Geodet",
+    "designer": "Návrhář vil",
+    "salesConsultant": "Obchodní konzultant",
+    "marketingConsultant": "Marketingový konzultant"
+  },
+  "common": {
+    "consult": "Konzultovat",
+    "submitResume": "Odeslat životopis",
+    "viewCount": "{{count}} zhlédnutí"
+  },
+  "partners": {
+    "title": "Partnerské společnosti"
+  },
+  "testimonials": {
+    "title": "Reference zákazníků"
+  },
+  "downloadSection": {
+    "title": "Vedeme budoucnost, globální vize",
+    "subtitle": "AI nábor, každá shoda je důvěryhodná"
+  },
+  "banner": {
+    "title": "Hledejte práci pomocí krátkých videí",
+    "subtitle": "Ukažte to nejlepší ze sebe",
+    "appStoreDownload": "Stáhnout z App Store",
+    "googlePlayDownload": "Stáhnout z Google Play",
+    "userStats": "{{count}}+ uživatelů našlo svou ideální práci"
+  },
+  "hrVideoSection": {
+    "title": "Video doporučení od HR předních společností",
+    "subtitle": "Pochopte, co si personalisté skutečně myslí"
+  }
+}

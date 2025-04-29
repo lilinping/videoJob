@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Rechercher",
+    "searchPlaceholder": "Vous pouvez chercher ici",
+    "uploadVideo": "Télécharger une Vidéo",
+    "interviewPractice": "Entraînement d'Entretien",
+    "resume": "CV",
+    "findJob": "Trouver un Emploi",
+    "loginRegister": "Connexion/Inscription",
+    "language": "Langue"
+  },
+  "videoSection": {
+    "hotJobs": "Emplois Populaires",
+    "videoResumeDesc": "Téléchargez votre CV vidéo pour montrer qui vous êtes vraiment"
+  },
+  "jobTitles": {
+    "projectDirector": "Directeur de Projet",
+    "projectAssistant": "Assistant de Projet",
+    "mediaOperator": "Opérateur de Médias",
+    "videoEditor": "Éditeur Vidéo",
+    "surveyor": "Géomètre",
+    "designer": "Designer de Villas",
+    "salesConsultant": "Consultant en Ventes",
+    "marketingConsultant": "Consultant en Marketing"
+  },
+  "common": {
+    "consult": "Consulter",
+    "submitResume": "Soumettre le CV",
+    "viewCount": "{{count}} vues"
+  },
+  "partners": {
+    "title": "Entreprises Partenaires"
+  },
+  "testimonials": {
+    "title": "Témoignages Clients"
+  },
+  "downloadSection": {
+    "title": "Guidons l'Avenir, Vision Globale",
+    "subtitle": "Recrutement IA, Chaque Match est Digne de Confiance"
+  },
+  "banner": {
+    "title": "Trouvez un Emploi avec des Vidéos Courtes",
+    "subtitle": "Montrez le Meilleur de Vous-même",
+    "appStoreDownload": "Télécharger sur l'App Store",
+    "googlePlayDownload": "Télécharger sur Google Play",
+    "userStats": "{{count}}+ utilisateurs ont trouvé leur emploi idéal"
+  },
+  "hrVideoSection": {
+    "title": "Recommandations Vidéo RH des Entreprises Leaders",
+    "subtitle": "Comprendre ce que Pensent Vraiment les Recruteurs"
+  }
+}

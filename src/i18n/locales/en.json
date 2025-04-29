@@ -1,0 +1,57 @@
+{
+  "navbar": {
+    "search": "Search",
+    "searchPlaceholder": "You can search here",
+    "uploadVideo": "Upload Video",
+    "interviewPractice": "Interview Practice",
+    "resume": "Resume",
+    "findJob": "Find Jobs",
+    "loginRegister": "Login/Register",
+    "language": "Language"
+  },
+  "videoSection": {
+    "hotJobs": "Hot Jobs",
+    "videoResumeDesc": "Upload your video resume and show the real you"
+  },
+  "buildingSection": {
+    "title": "Company Environment"
+  },
+  "jobTitles": {
+    "projectDirector": "Project Director",
+    "projectAssistant": "Project Assistant",
+    "mediaOperator": "Media Operator",
+    "videoEditor": "Video Editor",
+    "surveyor": "Surveyor",
+    "designer": "Villa Designer",
+    "salesConsultant": "Sales Consultant",
+    "marketingConsultant": "Marketing Consultant"
+  },
+  "common": {
+    "consult": "Consult",
+    "submitResume": "Submit Resume",
+    "viewCount": "{{count}} views",
+    "views": "views",
+    "new": "NEW"
+  },
+  "partners": {
+    "title": "Partner Companies"
+  },
+  "testimonials": {
+    "title": "Testimonials"
+  },
+  "downloadSection": {
+    "title": "Guiding the Future, Reflecting the World",
+    "subtitle": "AI recruitment, making all matches reliable"
+  },
+  "banner": {
+    "title": "Find Jobs with Short Videos",
+    "subtitle": "Show your best self",
+    "appStoreDownload": "Download from App Store",
+    "googlePlayDownload": "Download from Google Play",
+    "userStats": "Over {{count}} users found their ideal job"
+  },
+  "hrVideoSection": {
+    "title": "HR Video Recommendations from Top Companies",
+    "subtitle": "Understand the real thoughts of interviewers"
+  }
+}

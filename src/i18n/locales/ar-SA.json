@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "بحث",
+    "searchPlaceholder": "يمكنك البحث هنا",
+    "uploadVideo": "تحميل فيديو",
+    "interviewPractice": "تدريب المقابلة",
+    "resume": "السيرة الذاتية",
+    "findJob": "البحث عن وظائف",
+    "loginRegister": "تسجيل الدخول/التسجيل",
+    "language": "اللغة"
+  },
+  "videoSection": {
+    "hotJobs": "الوظائف الشائعة",
+    "videoResumeDesc": "قم بتحميل سيرتك الذاتية المصورة لإظهار شخصيتك الحقيقية"
+  },
+  "jobTitles": {
+    "projectDirector": "مدير المشروع",
+    "projectAssistant": "مساعد المشروع",
+    "mediaOperator": "مشغل وسائط",
+    "videoEditor": "محرر فيديو",
+    "surveyor": "مساح",
+    "designer": "مصمم فلل",
+    "salesConsultant": "مستشار مبيعات",
+    "marketingConsultant": "مستشار تسويق"
+  },
+  "common": {
+    "consult": "استشارة",
+    "submitResume": "تقديم السيرة الذاتية",
+    "viewCount": "{{count}} مشاهدة"
+  },
+  "partners": {
+    "title": "شركات متعاونة"
+  },
+  "testimonials": {
+    "title": "آراء العملاء"
+  },
+  "downloadSection": {
+    "title": "مستقبل التوظيف، انعكاس عالمي",
+    "subtitle": "التوظيف بالذكاء الاصطناعي، لجعل كل تطابق جدير بالثقة"
+  },
+  "banner": {
+    "title": "ابحث عن وظيفة باستخدام الفيديو القصير",
+    "subtitle": "أظهر أفضل ما لديك",
+    "appStoreDownload": "تنزيل من App Store",
+    "googlePlayDownload": "تنزيل من Google Play",
+    "userStats": "أكثر من {{count}}+ مستخدم وجدوا وظائفهم المثالية"
+  },
+  "hrVideoSection": {
+    "title": "فيديوهات موصى بها من مسؤولي الموارد البشرية",
+    "subtitle": "تعرف على أفكار مسؤولي التوظيف في الشركات الكبرى"
+  }
+}

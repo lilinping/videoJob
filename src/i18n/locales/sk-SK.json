@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Hľadať",
+    "searchPlaceholder": "Tu môžete vyhľadávať",
+    "uploadVideo": "Nahrať video",
+    "interviewPractice": "Nácvik pohovoru",
+    "resume": "Životopis",
+    "findJob": "Nájsť prácu",
+    "loginRegister": "Prihlásenie/Registrácia",
+    "language": "Jazyk"
+  },
+  "videoSection": {
+    "hotJobs": "Populárne pracovné miesta",
+    "videoResumeDesc": "Nahrajte svoj video životopis a ukážte svoje pravé ja"
+  },
+  "jobTitles": {
+    "projectDirector": "Riaditeľ projektu",
+    "projectAssistant": "Projektový asistent",
+    "mediaOperator": "Mediálny operátor",
+    "videoEditor": "Editor videa",
+    "surveyor": "Geodet",
+    "designer": "Návrhár víl",
+    "salesConsultant": "Obchodný konzultant",
+    "marketingConsultant": "Marketingový konzultant"
+  },
+  "common": {
+    "consult": "Konzultovať",
+    "submitResume": "Odoslať životopis",
+    "viewCount": "{{count}} zobrazení"
+  },
+  "partners": {
+    "title": "Partnerské spoločnosti"
+  },
+  "testimonials": {
+    "title": "Referencie zákazníkov"
+  },
+  "downloadSection": {
+    "title": "Vedieme budúcnosť, globálna vízia",
+    "subtitle": "AI nábor, každá zhoda je dôveryhodná"
+  },
+  "banner": {
+    "title": "Hľadajte prácu pomocou krátkych videí",
+    "subtitle": "Ukážte to najlepšie zo seba",
+    "appStoreDownload": "Stiahnuť z App Store",
+    "googlePlayDownload": "Stiahnuť z Google Play",
+    "userStats": "{{count}}+ používateľov našlo svoju ideálnu prácu"
+  },
+  "hrVideoSection": {
+    "title": "Video odporúčania od popredných HR odborníkov",
+    "subtitle": "Pochopte, čo si náborári skutočne myslia"
+  }
+}

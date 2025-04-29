@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Tìm kiếm",
+    "searchPlaceholder": "Bạn có thể tìm kiếm ở đây",
+    "uploadVideo": "Tải lên Video",
+    "interviewPractice": "Luyện tập Phỏng vấn",
+    "resume": "Sơ yếu lý lịch",
+    "findJob": "Tìm việc làm",
+    "loginRegister": "Đăng nhập/Đăng ký",
+    "language": "Ngôn ngữ"
+  },
+  "videoSection": {
+    "hotJobs": "Công việc Phổ biến",
+    "videoResumeDesc": "Tải lên sơ yếu lý lịch video để thể hiện con người thật của bạn"
+  },
+  "jobTitles": {
+    "projectDirector": "Giám đốc Dự án",
+    "projectAssistant": "Trợ lý Dự án",
+    "mediaOperator": "Nhân viên Vận hành Media",
+    "videoEditor": "Biên tập Viên Video",
+    "surveyor": "Nhân viên Khảo sát",
+    "designer": "Nhà Thiết kế Biệt thự",
+    "salesConsultant": "Tư vấn Bán hàng",
+    "marketingConsultant": "Tư vấn Marketing"
+  },
+  "common": {
+    "consult": "Tư vấn",
+    "submitResume": "Nộp Sơ yếu lý lịch",
+    "viewCount": "{{count}} lượt xem"
+  },
+  "partners": {
+    "title": "Công ty Đối tác"
+  },
+  "testimonials": {
+    "title": "Đánh giá của Khách hàng"
+  },
+  "downloadSection": {
+    "title": "Dẫn dắt tương lai, tầm nhìn toàn cầu",
+    "subtitle": "Tuyển dụng AI, mọi sự kết nối đều đáng tin cậy"
+  },
+  "banner": {
+    "title": "Tìm việc bằng video ngắn",
+    "subtitle": "Thể hiện phiên bản tốt nhất của bạn",
+    "appStoreDownload": "Tải về từ App Store",
+    "googlePlayDownload": "Tải về từ Google Play",
+    "userStats": "{{count}}+ người dùng đã tìm được công việc mơ ước"
+  },
+  "hrVideoSection": {
+    "title": "Video giới thiệu từ các chuyên gia HR hàng đầu",
+    "subtitle": "Hiểu được những gì nhà tuyển dụng thực sự nghĩ"
+  }
+}

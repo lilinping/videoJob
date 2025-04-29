@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Αναζήτηση",
+    "searchPlaceholder": "Μπορείτε να αναζητήσετε εδώ",
+    "uploadVideo": "Μεταφόρτωση βίντεο",
+    "interviewPractice": "Εξάσκηση συνέντευξης",
+    "resume": "Βιογραφικό",
+    "findJob": "Εύρεση εργασίας",
+    "loginRegister": "Σύνδεση/Εγγραφή",
+    "language": "Γλώσσα"
+  },
+  "videoSection": {
+    "hotJobs": "Δημοφιλείς θέσεις εργασίας",
+    "videoResumeDesc": "Ανεβάστε το βιογραφικό σας σε βίντεο για να δείξετε τον αληθινό εαυτό σας"
+  },
+  "jobTitles": {
+    "projectDirector": "Διευθυντής έργου",
+    "projectAssistant": "Βοηθός έργου",
+    "mediaOperator": "Χειριστής μέσων",
+    "videoEditor": "Επεξεργαστής βίντεο",
+    "surveyor": "Τοπογράφος",
+    "designer": "Σχεδιαστής βίλας",
+    "salesConsultant": "Σύμβουλος πωλήσεων",
+    "marketingConsultant": "Σύμβουλος μάρκετινγκ"
+  },
+  "common": {
+    "consult": "Συμβουλευτείτε",
+    "submitResume": "Υποβολή βιογραφικού",
+    "viewCount": "{{count}} προβολές"
+  },
+  "partners": {
+    "title": "Συνεργαζόμενες εταιρείες"
+  },
+  "testimonials": {
+    "title": "Μαρτυρίες πελατών"
+  },
+  "downloadSection": {
+    "title": "Οδηγούμε το μέλλον, παγκόσμιο όραμα",
+    "subtitle": "AI στελέχωση, κάθε αντιστοίχιση είναι αξιόπιστη"
+  },
+  "banner": {
+    "title": "Βρείτε εργασία με σύντομα βίντεο",
+    "subtitle": "Δείξτε τον καλύτερο εαυτό σας",
+    "appStoreDownload": "Λήψη από το App Store",
+    "googlePlayDownload": "Λήψη από το Google Play",
+    "userStats": "{{count}}+ χρήστες βρήκαν την ιδανική τους εργασία"
+  },
+  "hrVideoSection": {
+    "title": "Προτάσεις βίντεο από κορυφαία στελέχη HR",
+    "subtitle": "Κατανοήστε τι πραγματικά σκέφτονται οι υπεύθυνοι προσλήψεων"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Căutare",
+    "searchPlaceholder": "Puteți căuta aici",
+    "uploadVideo": "Încărcați video",
+    "interviewPractice": "Practică interviu",
+    "resume": "CV",
+    "findJob": "Găsiți un loc de muncă",
+    "loginRegister": "Autentificare/Înregistrare",
+    "language": "Limbă"
+  },
+  "videoSection": {
+    "hotJobs": "Locuri de muncă populare",
+    "videoResumeDesc": "Încărcați CV-ul video pentru a vă arăta adevărata personalitate"
+  },
+  "jobTitles": {
+    "projectDirector": "Director de proiect",
+    "projectAssistant": "Asistent proiect",
+    "mediaOperator": "Operator media",
+    "videoEditor": "Editor video",
+    "surveyor": "Topograf",
+    "designer": "Designer de vile",
+    "salesConsultant": "Consultant vânzări",
+    "marketingConsultant": "Consultant marketing"
+  },
+  "common": {
+    "consult": "Consultare",
+    "submitResume": "Trimiteți CV",
+    "viewCount": "{{count}} vizualizări"
+  },
+  "partners": {
+    "title": "Companii Partenere"
+  },
+  "testimonials": {
+    "title": "Testimoniale Clienți"
+  },
+  "downloadSection": {
+    "title": "Conducem viitorul, viziune globală",
+    "subtitle": "Recrutare AI, fiecare potrivire este de încredere"
+  },
+  "banner": {
+    "title": "Găsiți job-uri cu videoclipuri scurte",
+    "subtitle": "Arătați-vă cel mai bun eu",
+    "appStoreDownload": "Descărcați din App Store",
+    "googlePlayDownload": "Descărcați din Google Play",
+    "userStats": "{{count}}+ utilizatori și-au găsit jobul ideal"
+  },
+  "hrVideoSection": {
+    "title": "Recomandări video de la profesioniști HR de top",
+    "subtitle": "Înțelegeți ce gândesc cu adevărat recrutorii"
+  }
+}

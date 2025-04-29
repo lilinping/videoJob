@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Szukaj",
+    "searchPlaceholder": "Możesz tutaj szukać",
+    "uploadVideo": "Prześlij Wideo",
+    "interviewPractice": "Ćwiczenie Rozmowy Kwalifikacyjnej",
+    "resume": "CV",
+    "findJob": "Znajdź Pracę",
+    "loginRegister": "Logowanie/Rejestracja",
+    "language": "Język"
+  },
+  "videoSection": {
+    "hotJobs": "Popularne Oferty Pracy",
+    "videoResumeDesc": "Prześlij swoje wideo CV, aby pokazać prawdziwego siebie"
+  },
+  "jobTitles": {
+    "projectDirector": "Dyrektor Projektu",
+    "projectAssistant": "Asystent Projektu",
+    "mediaOperator": "Operator Mediów",
+    "videoEditor": "Montażysta Wideo",
+    "surveyor": "Geodeta",
+    "designer": "Projektant Willi",
+    "salesConsultant": "Konsultant Sprzedaży",
+    "marketingConsultant": "Konsultant Marketingowy"
+  },
+  "common": {
+    "consult": "Konsultuj",
+    "submitResume": "Prześlij CV",
+    "viewCount": "{{count}} wyświetleń"
+  },
+  "partners": {
+    "title": "Firmy Partnerskie"
+  },
+  "testimonials": {
+    "title": "Opinie Klientów"
+  },
+  "downloadSection": {
+    "title": "Prowadząc ku Przyszłości, Globalna Wizja",
+    "subtitle": "Rekrutacja AI, Każde Dopasowanie Jest Wiarygodne"
+  },
+  "banner": {
+    "title": "Znajdź Pracę za Pomocą Krótkich Filmów",
+    "subtitle": "Pokaż Swoją Najlepszą Stronę",
+    "appStoreDownload": "Pobierz z App Store",
+    "googlePlayDownload": "Pobierz z Google Play",
+    "userStats": "{{count}}+ użytkowników znalazło wymarzoną pracę"
+  },
+  "hrVideoSection": {
+    "title": "Rekomendacje Wideo od Wiodących Specjalistów HR",
+    "subtitle": "Zrozum, co Naprawdę Myślą Rekruterzy"
+  }
+}

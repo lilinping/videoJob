@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Suchen",
+    "searchPlaceholder": "Sie können hier suchen",
+    "uploadVideo": "Video hochladen",
+    "interviewPractice": "Vorstellungsgespräch Übung",
+    "resume": "Lebenslauf",
+    "findJob": "Job finden",
+    "loginRegister": "Anmelden/Registrieren",
+    "language": "Sprache"
+  },
+  "videoSection": {
+    "hotJobs": "Beliebte Jobs",
+    "videoResumeDesc": "Laden Sie Ihren Video-Lebenslauf hoch, um Ihr wahres Ich zu zeigen"
+  },
+  "jobTitles": {
+    "projectDirector": "Projektleiter",
+    "projectAssistant": "Projektassistent",
+    "mediaOperator": "Medienoperator",
+    "videoEditor": "Videoeditor",
+    "surveyor": "Vermesser",
+    "designer": "Villendesigner",
+    "salesConsultant": "Verkaufsberater",
+    "marketingConsultant": "Marketingberater"
+  },
+  "common": {
+    "consult": "Beratung",
+    "submitResume": "Lebenslauf einreichen",
+    "viewCount": "{{count}} Aufrufe"
+  },
+  "partners": {
+    "title": "Partnerunternehmen"
+  },
+  "testimonials": {
+    "title": "Kundenreferenzen"
+  },
+  "downloadSection": {
+    "title": "Führend in die Zukunft, globale Vision",
+    "subtitle": "KI-Rekrutierung, jeder Match ist vertrauenswürdig"
+  },
+  "banner": {
+    "title": "Finden Sie Jobs mit Kurzvideos",
+    "subtitle": "Zeigen Sie Ihr bestes Ich",
+    "appStoreDownload": "Im App Store herunterladen",
+    "googlePlayDownload": "Bei Google Play herunterladen",
+    "userStats": "{{count}}+ Nutzer haben ihren idealen Job gefunden"
+  },
+  "hrVideoSection": {
+    "title": "Video-Empfehlungen von führenden HR-Experten",
+    "subtitle": "Verstehen Sie, was Personalverantwortliche wirklich denken"
+  }
+}

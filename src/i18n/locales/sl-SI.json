@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Iskanje",
+    "searchPlaceholder": "Tukaj lahko iščete",
+    "uploadVideo": "Naloži video",
+    "interviewPractice": "Vaja za razgovor",
+    "resume": "Življenjepis",
+    "findJob": "Poišči službo",
+    "loginRegister": "Prijava/Registracija",
+    "language": "Jezik"
+  },
+  "videoSection": {
+    "hotJobs": "Priljubljena delovna mesta",
+    "videoResumeDesc": "Naložite svoj video življenjepis in pokažite svoj pravi jaz"
+  },
+  "jobTitles": {
+    "projectDirector": "Direktor projekta",
+    "projectAssistant": "Projektni asistent",
+    "mediaOperator": "Medijski operater",
+    "videoEditor": "Video urednik",
+    "surveyor": "Geodet",
+    "designer": "Oblikovalec vil",
+    "salesConsultant": "Prodajni svetovalec",
+    "marketingConsultant": "Marketinški svetovalec"
+  },
+  "common": {
+    "consult": "Posvetovanje",
+    "submitResume": "Oddaj življenjepis",
+    "viewCount": "{{count}} ogledov"
+  },
+  "partners": {
+    "title": "Partnerska podjetja"
+  },
+  "testimonials": {
+    "title": "Mnenja strank"
+  },
+  "downloadSection": {
+    "title": "Vodimo prihodnost, globalna vizija",
+    "subtitle": "AI zaposlovanje, vsako ujemanje je zaupanja vredno"
+  },
+  "banner": {
+    "title": "Poiščite službo s kratkimi videi",
+    "subtitle": "Pokažite svoj najboljši jaz",
+    "appStoreDownload": "Prenesite iz App Store",
+    "googlePlayDownload": "Prenesite iz Google Play",
+    "userStats": "{{count}}+ uporabnikov je našlo svojo idealno službo"
+  },
+  "hrVideoSection": {
+    "title": "Video priporočila vodilnih HR strokovnjakov",
+    "subtitle": "Razumite, kaj kadrovniki resnično razmišljajo"
+  }
+}

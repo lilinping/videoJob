@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Пошук",
+    "searchPlaceholder": "Ви можете шукати тут",
+    "uploadVideo": "Завантажити відео",
+    "interviewPractice": "Практика співбесіди",
+    "resume": "Резюме",
+    "findJob": "Знайти роботу",
+    "loginRegister": "Вхід/Реєстрація",
+    "language": "Мова"
+  },
+  "videoSection": {
+    "hotJobs": "Популярні вакансії",
+    "videoResumeDesc": "Завантажте ваше відео-резюме, щоб показати справжнього себе"
+  },
+  "jobTitles": {
+    "projectDirector": "Директор проекту",
+    "projectAssistant": "Помічник проекту",
+    "mediaOperator": "Медіа-оператор",
+    "videoEditor": "Відеомонтажер",
+    "surveyor": "Геодезист",
+    "designer": "Дизайнер вілл",
+    "salesConsultant": "Консультант з продажу",
+    "marketingConsultant": "Консультант з маркетингу"
+  },
+  "common": {
+    "consult": "Консультація",
+    "submitResume": "Надіслати резюме",
+    "viewCount": "{{count}} переглядів"
+  },
+  "partners": {
+    "title": "Компанії-партнери"
+  },
+  "testimonials": {
+    "title": "Відгуки клієнтів"
+  },
+  "downloadSection": {
+    "title": "Ведемо в майбутнє, глобальне бачення",
+    "subtitle": "ШІ-рекрутинг, кожен збіг надійний"
+  },
+  "banner": {
+    "title": "Знайдіть роботу за допомогою коротких відео",
+    "subtitle": "Покажіть себе з найкращого боку",
+    "appStoreDownload": "Завантажити з App Store",
+    "googlePlayDownload": "Завантажити з Google Play",
+    "userStats": "{{count}}+ користувачів знайшли роботу своєї мрії"
+  },
+  "hrVideoSection": {
+    "title": "Відеорекомендації від провідних HR-фахівців",
+    "subtitle": "Дізнайтеся, що насправді думають рекрутери"
+  }
+}

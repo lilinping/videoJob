@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Haku",
+    "searchPlaceholder": "Voit hakea täältä",
+    "uploadVideo": "Lataa video",
+    "interviewPractice": "Haastatteluharjoitus",
+    "resume": "Ansioluettelo",
+    "findJob": "Etsi töitä",
+    "loginRegister": "Kirjaudu/Rekisteröidy",
+    "language": "Kieli"
+  },
+  "videoSection": {
+    "hotJobs": "Suositut työpaikat",
+    "videoResumeDesc": "Lataa video-ansioluettelosi näyttääksesi todellisen itsesi"
+  },
+  "jobTitles": {
+    "projectDirector": "Projektipäällikkö",
+    "projectAssistant": "Projektiassistentti",
+    "mediaOperator": "Mediaoperaattori",
+    "videoEditor": "Videoeditori",
+    "surveyor": "Maanmittaaja",
+    "designer": "Huvilasuunnittelija",
+    "salesConsultant": "Myyntikonsultti",
+    "marketingConsultant": "Markkinointikonsultti"
+  },
+  "common": {
+    "consult": "Konsultoi",
+    "submitResume": "Lähetä ansioluettelo",
+    "viewCount": "{{count}} katselukertaa"
+  },
+  "partners": {
+    "title": "Yhteistyöyritykset"
+  },
+  "testimonials": {
+    "title": "Asiakaskokemukset"
+  },
+  "downloadSection": {
+    "title": "Johtamassa tulevaisuutta, globaali visio",
+    "subtitle": "Tekoälyrekrytointi, jokainen yhdistäminen on luotettava"
+  },
+  "banner": {
+    "title": "Löydä töitä lyhytvideoilla",
+    "subtitle": "Näytä paras puolesi",
+    "appStoreDownload": "Lataa App Storesta",
+    "googlePlayDownload": "Lataa Google Playsta",
+    "userStats": "{{count}}+ käyttäjää on löytänyt unelmatyönsä"
+  },
+  "hrVideoSection": {
+    "title": "HR-videosuositukset johtavilta yrityksiltä",
+    "subtitle": "Ymmärrä mitä haastattelijat todella ajattelevat"
+  }
+}

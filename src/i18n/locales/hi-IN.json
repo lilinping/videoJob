@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "खोज",
+    "searchPlaceholder": "आप यहां खोज सकते हैं",
+    "uploadVideo": "वीडियो अपलोड करें",
+    "interviewPractice": "इंटरव्यू अभ्यास",
+    "resume": "रिज्यूमे",
+    "findJob": "नौकरी खोजें",
+    "loginRegister": "लॉगिन/रजिस्टर",
+    "language": "भाषा"
+  },
+  "videoSection": {
+    "hotJobs": "लोकप्रिय नौकरियां",
+    "videoResumeDesc": "अपना वास्तविक स्वरूप दिखाने के लिए अपना वीडियो रिज्यूमे अपलोड करें"
+  },
+  "jobTitles": {
+    "projectDirector": "प्रोजेक्ट डायरेक्टर",
+    "projectAssistant": "प्रोजेक्ट असिस्टेंट",
+    "mediaOperator": "मीडिया ऑपरेटर",
+    "videoEditor": "वीडियो एडिटर",
+    "surveyor": "सर्वेयर",
+    "designer": "विला डिजाइनर",
+    "salesConsultant": "सेल्स कंसल्टेंट",
+    "marketingConsultant": "मार्केटिंग कंसल्टेंट"
+  },
+  "common": {
+    "consult": "परामर्श",
+    "submitResume": "रिज्यूमे जमा करें",
+    "viewCount": "{{count}} बार देखा गया"
+  },
+  "partners": {
+    "title": "साझेदार कंपनियां"
+  },
+  "testimonials": {
+    "title": "ग्राहक प्रतिक्रियाएं"
+  },
+  "downloadSection": {
+    "title": "भविष्य का नेतृत्व, वैश्विक दृष्टि",
+    "subtitle": "AI भर्ती, हर मैच विश्वसनीय"
+  },
+  "banner": {
+    "title": "छोटे वीडियो के साथ नौकरी खोजें",
+    "subtitle": "अपना सर्वश्रेष्ठ रूप दिखाएं",
+    "appStoreDownload": "App Store से डाउनलोड करें",
+    "googlePlayDownload": "Google Play से डाउनलोड करें",
+    "userStats": "{{count}}+ उपयोगकर्ताओं ने अपनी आदर्श नौकरी पाई"
+  },
+  "hrVideoSection": {
+    "title": "प्रमुख कंपनियों से HR वीडियो अनुशंसाएं",
+    "subtitle": "जानें कि साक्षात्कारकर्ता वास्तव में क्या सोचते हैं"
+  }
+}

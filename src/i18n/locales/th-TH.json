@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "ค้นหา",
+    "searchPlaceholder": "คุณสามารถค้นหาที่นี่",
+    "uploadVideo": "อัปโหลดวิดีโอ",
+    "interviewPractice": "ฝึกสัมภาษณ์",
+    "resume": "ประวัติย่อ",
+    "findJob": "หางาน",
+    "loginRegister": "เข้าสู่ระบบ/ลงทะเบียน",
+    "language": "ภาษา"
+  },
+  "videoSection": {
+    "hotJobs": "งานยอดนิยม",
+    "videoResumeDesc": "อัปโหลดวิดีโอประวัติย่อของคุณเพื่อแสดงตัวตนที่แท้จริง"
+  },
+  "jobTitles": {
+    "projectDirector": "ผู้อำนวยการโครงการ",
+    "projectAssistant": "ผู้ช่วยโครงการ",
+    "mediaOperator": "ผู้ปฏิบัติงานสื่อ",
+    "videoEditor": "ตัดต่อวิดีโอ",
+    "surveyor": "นักสำรวจ",
+    "designer": "นักออกแบบวิลล่า",
+    "salesConsultant": "ที่ปรึกษาการขาย",
+    "marketingConsultant": "ที่ปรึกษาการตลาด"
+  },
+  "common": {
+    "consult": "ปรึกษา",
+    "submitResume": "ส่งประวัติย่อ",
+    "viewCount": "{{count}} ครั้ง"
+  },
+  "partners": {
+    "title": "บริษัทพันธมิตร"
+  },
+  "testimonials": {
+    "title": "เสียงจากลูกค้า"
+  },
+  "downloadSection": {
+    "title": "นำอนาคต วิสัยทัศน์ระดับโลก",
+    "subtitle": "การสรรหางานด้วย AI ทุกการจับคู่เชื่อถือได้"
+  },
+  "banner": {
+    "title": "หางานด้วยวิดีโอสั้น",
+    "subtitle": "แสดงตัวตนที่ดีที่สุดของคุณ",
+    "appStoreDownload": "ดาวน์โหลดจาก App Store",
+    "googlePlayDownload": "ดาวน์โหลดจาก Google Play",
+    "userStats": "{{count}}+ ผู้ใช้พบงานในฝัน"
+  },
+  "hrVideoSection": {
+    "title": "วิดีโอแนะนำจากผู้เชี่ยวชาญ HR ชั้นนำ",
+    "subtitle": "เข้าใจสิ่งที่นักสรรหาคิดจริงๆ"
+  }
+}

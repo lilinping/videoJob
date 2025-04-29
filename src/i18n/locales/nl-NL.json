@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Zoeken",
+    "searchPlaceholder": "Je kunt hier zoeken",
+    "uploadVideo": "Video Uploaden",
+    "interviewPractice": "Sollicitatiegesprek Oefenen",
+    "resume": "CV",
+    "findJob": "Banen Zoeken",
+    "loginRegister": "Inloggen/Registreren",
+    "language": "Taal"
+  },
+  "videoSection": {
+    "hotJobs": "Populaire Banen",
+    "videoResumeDesc": "Upload je video-CV om de echte jij te laten zien"
+  },
+  "jobTitles": {
+    "projectDirector": "Projectdirecteur",
+    "projectAssistant": "Projectassistent",
+    "mediaOperator": "Media-operator",
+    "videoEditor": "Video-editor",
+    "surveyor": "Landmeter",
+    "designer": "Villa-ontwerper",
+    "salesConsultant": "Verkoopconsulent",
+    "marketingConsultant": "Marketingconsulent"
+  },
+  "common": {
+    "consult": "Raadplegen",
+    "submitResume": "CV Indienen",
+    "viewCount": "{{count}} weergaven"
+  },
+  "partners": {
+    "title": "Partnerbedrijven"
+  },
+  "testimonials": {
+    "title": "Klantbeoordelingen"
+  },
+  "downloadSection": {
+    "title": "Leidend naar de Toekomst, Globale Visie",
+    "subtitle": "AI-werving, Elke Match is Betrouwbaar"
+  },
+  "banner": {
+    "title": "Vind Werk met Korte Video's",
+    "subtitle": "Laat je Beste Kant Zien",
+    "appStoreDownload": "Download via App Store",
+    "googlePlayDownload": "Download via Google Play",
+    "userStats": "{{count}}+ gebruikers hebben hun droombaan gevonden"
+  },
+  "hrVideoSection": {
+    "title": "Video-aanbevelingen van Toonaangevende HR-professionals",
+    "subtitle": "Begrijp wat Recruiters Echt Denken"
+  }
+}

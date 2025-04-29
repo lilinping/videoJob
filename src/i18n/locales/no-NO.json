@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Søk",
+    "searchPlaceholder": "Du kan søke her",
+    "uploadVideo": "Last opp video",
+    "interviewPractice": "Intervjutrening",
+    "resume": "CV",
+    "findJob": "Finn jobber",
+    "loginRegister": "Logg inn/Registrer",
+    "language": "Språk"
+  },
+  "videoSection": {
+    "hotJobs": "Populære jobber",
+    "videoResumeDesc": "Last opp video-CV-en din for å vise ditt sanne jeg"
+  },
+  "jobTitles": {
+    "projectDirector": "Prosjektdirektør",
+    "projectAssistant": "Prosjektassistent",
+    "mediaOperator": "Mediaoperatør",
+    "videoEditor": "Videoredigerer",
+    "surveyor": "Landmåler",
+    "designer": "Villadesigner",
+    "salesConsultant": "Salgskonsulent",
+    "marketingConsultant": "Markedsføringskonsulent"
+  },
+  "common": {
+    "consult": "Konsulter",
+    "submitResume": "Send inn CV",
+    "viewCount": "{{count}} visninger"
+  },
+  "partners": {
+    "title": "Partnerbedrifter"
+  },
+  "testimonials": {
+    "title": "Kundevurderinger"
+  },
+  "downloadSection": {
+    "title": "Leder fremtiden, global visjon",
+    "subtitle": "AI-rekruttering, hver match er pålitelig"
+  },
+  "banner": {
+    "title": "Finn jobb med korte videoer",
+    "subtitle": "Vis ditt beste jeg",
+    "appStoreDownload": "Last ned fra App Store",
+    "googlePlayDownload": "Last ned fra Google Play",
+    "userStats": "{{count}}+ brukere har funnet drømmejobben"
+  },
+  "hrVideoSection": {
+    "title": "Videoanbefalinger fra ledende HR-folk",
+    "subtitle": "Forstå hva rekrutterere virkelig tenker"
+  }
+}

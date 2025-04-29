@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Cari",
+    "searchPlaceholder": "Anda dapat mencari di sini",
+    "uploadVideo": "Unggah Video",
+    "interviewPractice": "Latihan Wawancara",
+    "resume": "Resume",
+    "findJob": "Cari Pekerjaan",
+    "loginRegister": "Masuk/Daftar",
+    "language": "Bahasa"
+  },
+  "videoSection": {
+    "hotJobs": "Pekerjaan Populer",
+    "videoResumeDesc": "Unggah resume video Anda untuk menunjukkan diri Anda yang sebenarnya"
+  },
+  "jobTitles": {
+    "projectDirector": "Direktur Proyek",
+    "projectAssistant": "Asisten Proyek",
+    "mediaOperator": "Operator Media",
+    "videoEditor": "Editor Video",
+    "surveyor": "Surveyor",
+    "designer": "Desainer Vila",
+    "salesConsultant": "Konsultan Penjualan",
+    "marketingConsultant": "Konsultan Pemasaran"
+  },
+  "common": {
+    "consult": "Konsultasi",
+    "submitResume": "Kirim Resume",
+    "viewCount": "{{count}} tayangan"
+  },
+  "partners": {
+    "title": "Perusahaan Mitra"
+  },
+  "testimonials": {
+    "title": "Testimoni Pelanggan"
+  },
+  "downloadSection": {
+    "title": "Memimpin Masa Depan, Visi Global",
+    "subtitle": "Rekrutmen AI, Setiap Kecocokan Dapat Dipercaya"
+  },
+  "banner": {
+    "title": "Cari Pekerjaan dengan Video Pendek",
+    "subtitle": "Tunjukkan Diri Terbaik Anda",
+    "appStoreDownload": "Unduh dari App Store",
+    "googlePlayDownload": "Unduh dari Google Play",
+    "userStats": "{{count}}+ pengguna telah menemukan pekerjaan impian mereka"
+  },
+  "hrVideoSection": {
+    "title": "Rekomendasi Video dari Para Profesional HR Terkemuka",
+    "subtitle": "Pahami Apa yang Sebenarnya Dipikirkan oleh Perekrut"
+  }
+}

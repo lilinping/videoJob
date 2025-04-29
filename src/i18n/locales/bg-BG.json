@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Търсене",
+    "searchPlaceholder": "Можете да търсите тук",
+    "uploadVideo": "Качване на видео",
+    "interviewPractice": "Практика за интервю",
+    "resume": "Автобиография",
+    "findJob": "Намери работа",
+    "loginRegister": "Вход/Регистрация",
+    "language": "Език"
+  },
+  "videoSection": {
+    "hotJobs": "Популярни работни места",
+    "videoResumeDesc": "Качете вашата видео автобиография, за да покажете истинската си аз"
+  },
+  "jobTitles": {
+    "projectDirector": "Директор на проект",
+    "projectAssistant": "Асистент на проект",
+    "mediaOperator": "Медиен оператор",
+    "videoEditor": "Видео редактор",
+    "surveyor": "Геодезист",
+    "designer": "Дизайнер на вили",
+    "salesConsultant": "Консултант продажби",
+    "marketingConsultant": "Маркетинг консултант"
+  },
+  "common": {
+    "consult": "Консултация",
+    "submitResume": "Изпратете автобиография",
+    "viewCount": "{{count}} прегледа"
+  },
+  "partners": {
+    "title": "Партньорски компании"
+  },
+  "testimonials": {
+    "title": "Отзиви на клиенти"
+  },
+  "downloadSection": {
+    "title": "Водещи към бъдещето, глобална визия",
+    "subtitle": "AI подбор, всяко съвпадение заслужава доверие"
+  },
+  "banner": {
+    "title": "Намерете работа с кратки видеа",
+    "subtitle": "Покажете най-доброто от себе си",
+    "appStoreDownload": "Изтегли от App Store",
+    "googlePlayDownload": "Изтегли от Google Play",
+    "userStats": "{{count}}+ потребители намериха своята идеална работа"
+  },
+  "hrVideoSection": {
+    "title": "Видео препоръки от HR на водещи компании",
+    "subtitle": "Разберете какво наистина мислят интервюиращите"
+  }
+}

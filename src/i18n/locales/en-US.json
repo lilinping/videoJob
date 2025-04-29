@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Search",
+    "searchPlaceholder": "You can search here",
+    "uploadVideo": "Upload Video",
+    "interviewPractice": "Interview Practice",
+    "resume": "Resume",
+    "findJob": "Find Jobs",
+    "loginRegister": "Login/Register",
+    "language": "Language"
+  },
+  "videoSection": {
+    "hotJobs": "Hot Jobs",
+    "videoResumeDesc": "Upload your video resume to show the real you"
+  },
+  "jobTitles": {
+    "projectDirector": "Project Director",
+    "projectAssistant": "Project Assistant",
+    "mediaOperator": "Media Operator",
+    "videoEditor": "Video Editor",
+    "surveyor": "Surveyor",
+    "designer": "Villa Designer",
+    "salesConsultant": "Sales Consultant",
+    "marketingConsultant": "Marketing Consultant"
+  },
+  "common": {
+    "consult": "Consult",
+    "submitResume": "Submit Resume",
+    "viewCount": "{{count}} views"
+  },
+  "partners": {
+    "title": "Partner Companies"
+  },
+  "testimonials": {
+    "title": "Customer Testimonials"
+  },
+  "downloadSection": {
+    "title": "Leading the Future, Global Vision",
+    "subtitle": "AI Recruitment, Making Every Match Trustworthy"
+  },
+  "banner": {
+    "title": "Find Jobs with Short Videos",
+    "subtitle": "Show Your Best Self",
+    "appStoreDownload": "Download from App Store",
+    "googlePlayDownload": "Download from Google Play",
+    "userStats": "{{count}}+ users have found their ideal jobs"
+  },
+  "hrVideoSection": {
+    "title": "HR Video Recommendations from Leading Companies",
+    "subtitle": "Understand What Interviewers Really Think"
+  }
+}

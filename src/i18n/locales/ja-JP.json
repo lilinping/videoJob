@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "検索",
+    "searchPlaceholder": "ここで検索できます",
+    "uploadVideo": "動画をアップロード",
+    "interviewPractice": "面接練習",
+    "resume": "履歴書",
+    "findJob": "仕事を探す",
+    "loginRegister": "ログイン/登録",
+    "language": "言語"
+  },
+  "videoSection": {
+    "hotJobs": "人気の求人",
+    "videoResumeDesc": "ビデオ履歴書をアップロードして、本当の自分を見せよう"
+  },
+  "jobTitles": {
+    "projectDirector": "プロジェクトディレクター",
+    "projectAssistant": "プロジェクトアシスタント",
+    "mediaOperator": "メディアオペレーター",
+    "videoEditor": "ビデオエディター",
+    "surveyor": "測量士",
+    "designer": "ヴィラデザイナー",
+    "salesConsultant": "セールスコンサルタント",
+    "marketingConsultant": "マーケティングコンサルタント"
+  },
+  "common": {
+    "consult": "相談",
+    "submitResume": "履歴書を提出",
+    "viewCount": "{{count}}回視聴"
+  },
+  "partners": {
+    "title": "提携企業"
+  },
+  "testimonials": {
+    "title": "お客様の声"
+  },
+  "downloadSection": {
+    "title": "未来を導き、世界を映す",
+    "subtitle": "AI採用、すべてのマッチングを信頼できるものに"
+  },
+  "banner": {
+    "title": "ショートビデオで仕事を探す",
+    "subtitle": "あなたの最高の姿を見せよう",
+    "appStoreDownload": "App Storeからダウンロード",
+    "googlePlayDownload": "Google Playからダウンロード",
+    "userStats": "{{count}}人以上のユーザーが理想の仕事を見つけました"
+  },
+  "hrVideoSection": {
+    "title": "一流企業のHRビデオ推薦",
+    "subtitle": "面接官の本音を理解する"
+  }
+}

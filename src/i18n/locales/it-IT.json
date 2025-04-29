@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Cerca",
+    "searchPlaceholder": "Puoi cercare qui",
+    "uploadVideo": "Carica Video",
+    "interviewPractice": "Pratica Colloquio",
+    "resume": "Curriculum",
+    "findJob": "Trova Lavoro",
+    "loginRegister": "Accedi/Registrati",
+    "language": "Lingua"
+  },
+  "videoSection": {
+    "hotJobs": "Lavori Popolari",
+    "videoResumeDesc": "Carica il tuo video curriculum per mostrare il vero te"
+  },
+  "jobTitles": {
+    "projectDirector": "Direttore di Progetto",
+    "projectAssistant": "Assistente di Progetto",
+    "mediaOperator": "Operatore Media",
+    "videoEditor": "Editor Video",
+    "surveyor": "Geometra",
+    "designer": "Designer di Ville",
+    "salesConsultant": "Consulente Vendite",
+    "marketingConsultant": "Consulente Marketing"
+  },
+  "common": {
+    "consult": "Consulta",
+    "submitResume": "Invia Curriculum",
+    "viewCount": "{{count}} visualizzazioni"
+  },
+  "partners": {
+    "title": "Aziende Partner"
+  },
+  "testimonials": {
+    "title": "Testimonianze dei Clienti"
+  },
+  "downloadSection": {
+    "title": "Guidando il Futuro, Visione Globale",
+    "subtitle": "Recruiting AI, Ogni Match è Affidabile"
+  },
+  "banner": {
+    "title": "Trova Lavoro con Video Brevi",
+    "subtitle": "Mostra il Meglio di Te",
+    "appStoreDownload": "Scarica da App Store",
+    "googlePlayDownload": "Scarica da Google Play",
+    "userStats": "{{count}}+ utenti hanno trovato il lavoro dei loro sogni"
+  },
+  "hrVideoSection": {
+    "title": "Raccomandazioni Video dai Principali Professionisti HR",
+    "subtitle": "Comprendi Cosa Pensano Davvero i Recruiter"
+  }
+}

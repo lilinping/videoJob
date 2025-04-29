@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "search": "Pesquisar",
+    "searchPlaceholder": "Você pode pesquisar aqui",
+    "uploadVideo": "Carregar Vídeo",
+    "interviewPractice": "Prática de Entrevista",
+    "resume": "Currículo",
+    "findJob": "Encontrar Empregos",
+    "loginRegister": "Login/Registro",
+    "language": "Idioma"
+  },
+  "videoSection": {
+    "hotJobs": "Empregos Populares",
+    "videoResumeDesc": "Carregue seu currículo em vídeo para mostrar quem você realmente é"
+  },
+  "jobTitles": {
+    "projectDirector": "Diretor de Projeto",
+    "projectAssistant": "Assistente de Projeto",
+    "mediaOperator": "Operador de Mídia",
+    "videoEditor": "Editor de Vídeo",
+    "surveyor": "Agrimensor",
+    "designer": "Designer de Vilas",
+    "salesConsultant": "Consultor de Vendas",
+    "marketingConsultant": "Consultor de Marketing"
+  },
+  "common": {
+    "consult": "Consultar",
+    "submitResume": "Enviar Currículo",
+    "viewCount": "{{count}} visualizações"
+  },
+  "partners": {
+    "title": "Empresas Parceiras"
+  },
+  "testimonials": {
+    "title": "Depoimentos de Clientes"
+  },
+  "downloadSection": {
+    "title": "Liderando o Futuro, Visão Global",
+    "subtitle": "Recrutamento com IA, Cada Match é Confiável"
+  },
+  "banner": {
+    "title": "Encontre Emprego com Vídeos Curtos",
+    "subtitle": "Mostre seu Melhor",
+    "appStoreDownload": "Baixar na App Store",
+    "googlePlayDownload": "Baixar no Google Play",
+    "userStats": "{{count}}+ usuários encontraram o emprego dos sonhos"
+  },
+  "hrVideoSection": {
+    "title": "Recomendações em Vídeo dos Principais Profissionais de RH",
+    "subtitle": "Entenda o que os Recrutadores Realmente Pensam"
+  }
+}
