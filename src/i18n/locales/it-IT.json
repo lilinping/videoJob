@@ -10,8 +10,8 @@
     "language": "Lingua"
   },
   "videoSection": {
-    "hotJobs": "Lavori Popolari",
-    "videoResumeDesc": "Carica il tuo video curriculum per mostrare il vero te"
+    "hotJobs": "Lavori in Trend",
+    "videoResumeDesc": "Scopri i talenti dei candidati e le opportunità offerte dalle aziende"
   },
   "jobTitles": {
     "projectDirector": "Direttore di Progetto",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ utenti hanno trovato il lavoro dei loro sogni"
   },
   "hrVideoSection": {
-    "title": "Raccomandazioni Video dai Principali Professionisti HR",
-    "subtitle": "Comprendi Cosa Pensano Davvero i Recruiter"
+    "title": "Video esplicativi HR di grandi aziende",
+    "subtitle": "Scopri gli standard di reclutamento e le tecniche di colloquio del settore"
   }
 }

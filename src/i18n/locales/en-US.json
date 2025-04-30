@@ -10,8 +10,8 @@
     "language": "Language"
   },
   "videoSection": {
-    "hotJobs": "Hot Jobs",
-    "videoResumeDesc": "Upload your video resume to show the real you"
+    "hotJobs": "Popular Short Videos", 
+    "videoResumeDesc": "Explore talents showcased by job seekers and opportunities released by companies"
   },
   "jobTitles": {
     "projectDirector": "Project Director",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ users have found their ideal jobs"
   },
   "hrVideoSection": {
-    "title": "HR Video Recommendations from Leading Companies",
-    "subtitle": "Understand What Interviewers Really Think"
+    "title": "HR Explanation Videos from Top Companies",
+    "subtitle": "Understand industry internal recruitment standards and interview techniques"
   }
 }

@@ -7,7 +7,7 @@ const Banner: React.FC = () => {
   return (
     <div className="relative min-h-[500px] md:h-[600px] w-full bg-gradient-to-b from-gray-900 to-black">
       <div className="absolute inset-0 bg-[url('/banner-bg.png')] bg-cover bg-center opacity-50" />
-      <div className="container mx-auto px-4 py-32 md:py-60 relative z-10">
+      <div className="max-w-7xl mx-auto px-6 md:px-8 lg:px-12 py-32 md:py-60 relative z-10">
         <div className="max-w-2xl">
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 md:mb-6">
             {t('banner.title')}

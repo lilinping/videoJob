@@ -10,8 +10,8 @@
     "language": "言語"
   },
   "videoSection": {
-    "hotJobs": "人気の求人",
-    "videoResumeDesc": "ビデオ履歴書をアップロードして、本当の自分を見せよう"
+    "hotJobs": "人気ショート動画",
+    "videoResumeDesc": "求職者の才能と企業の機会を探索する"
   },
   "jobTitles": {
     "projectDirector": "プロジェクトディレクター",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}人以上のユーザーが理想の仕事を見つけました"
   },
   "hrVideoSection": {
-    "title": "一流企業のHRビデオ推薦",
-    "subtitle": "面接官の本音を理解する"
+    "title": "有名企業HR解説動画",
+    "subtitle": "業界内部の採用基準と面接技術を理解する"
   }
 }

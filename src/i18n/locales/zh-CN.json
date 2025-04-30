@@ -10,8 +10,8 @@
     "language": "语言"
   },
   "videoSection": {
-    "hotJobs": "热门职位",
-    "videoResumeDesc": "发布你的视频简历，展示最真实的自己"
+    "hotJobs": "精彩短视频",
+    "videoResumeDesc": "探索求职者展示的才华与企业发布的机会"
   },
   "buildingSection": {
     "title": "企业环境展示"
@@ -51,7 +51,7 @@
     "userStats": "已有 {{count}}+ 用户找到理想工作"
   },
   "hrVideoSection": {
-    "title": "名企HR视频推荐",
-    "subtitle": "了解大厂面试官的真实想法"
+    "title": "名企 HR 解说视频",
+    "subtitle": "了解行业内部招聘标准和面试技巧"
   }
 } 

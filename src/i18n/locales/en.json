@@ -10,8 +10,8 @@
     "language": "Language"
   },
   "videoSection": {
-    "hotJobs": "Hot Jobs",
-    "videoResumeDesc": "Upload your video resume and show the real you"
+    "hotJobs": "Popular Short Videos",
+    "videoResumeDesc": "Explore talents showcased by job seekers and opportunities released by companies"
   },
   "buildingSection": {
     "title": "Company Environment"
@@ -51,7 +51,7 @@
     "userStats": "Over {{count}} users found their ideal job"
   },
   "hrVideoSection": {
-    "title": "HR Video Recommendations from Top Companies",
-    "subtitle": "Understand the real thoughts of interviewers"
+    "title": "HR Explanation Videos from Top Companies",
+    "subtitle": "Understand industry internal recruitment standards and interview techniques"
   }
 }

@@ -133,11 +133,11 @@ const Testimonials: React.FC = () => {
 
   return (
     <section className="py-10 sm:py-16 md:py-20 bg-gradient-to-b from-[#0A0A0A] to-black relative">
-      <div className="container mx-auto px-4">
-      <h2 className="text-xl sm:text-2xl md:text-3xl font-bold mb-6 sm:mb-8 md:mb-12 text-center text-white">{t('testimonials.title')}</h2>
+      <div className="max-w-7xl mx-auto px-6 md:px-8 lg:px-12">
+        <h2 className="text-xl sm:text-2xl md:text-3xl font-bold mb-6 sm:mb-8 md:mb-12 text-center text-white">{t('testimonials.title')}</h2>
         
         {/* 主要内容区域和底部渐变蒙层 */}
-        <div className="max-w-7xl mx-auto relative pb-16 sm:pb-20">
+        <div className="relative pb-16 sm:pb-20">
           {/* 底部渐变蒙层 - 高度设为50% */}
           <div className="absolute left-0 right-0 bottom-0 h-1/2 bg-gradient-to-t from-black to-transparent z-10"></div>
           

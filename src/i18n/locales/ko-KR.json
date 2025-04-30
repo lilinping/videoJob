@@ -10,8 +10,8 @@
     "language": "언어"
   },
   "videoSection": {
-    "hotJobs": "인기 일자리",
-    "videoResumeDesc": "비디오 이력서를 업로드하여 진정한 자신을 보여주세요"
+    "hotJobs": "인기 쇼트 비디오",
+    "videoResumeDesc": "구직자의 재능과 기업이 제공하는 기회를 탐색하세요"
   },
   "jobTitles": {
     "projectDirector": "프로젝트 디렉터",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}명 이상의 사용자가 이상적인 일자리를 찾았습니다"
   },
   "hrVideoSection": {
-    "title": "유명 기업 HR 비디오 추천",
-    "subtitle": "면접관의 진짜 생각 이해하기"
+    "title": "유명 기업 HR 설명 영상",
+    "subtitle": "업계 내부 채용 기준 및 면접 기술 알아보기"
   }
 }

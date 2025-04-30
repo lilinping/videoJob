@@ -10,8 +10,8 @@
     "language": "Jazyk"
   },
   "videoSection": {
-    "hotJobs": "Populární pracovní místa",
-    "videoResumeDesc": "Nahrajte svůj video životopis a ukažte své pravé já"
+    "hotJobs": "Populární krátká videa",
+    "videoResumeDesc": "Objevte talenty uchazečů a příležitosti nabízené společnostmi"
   },
   "jobTitles": {
     "projectDirector": "Ředitel projektu",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ uživatelů našlo svou ideální práci"
   },
   "hrVideoSection": {
-    "title": "Video doporučení od HR předních společností",
-    "subtitle": "Pochopte, co si personalisté skutečně myslí"
+    "title": "Výkladová videa HR předních společností",
+    "subtitle": "Poznejte interní standardy náboru a techniky pohovorů v oboru"
   }
 }

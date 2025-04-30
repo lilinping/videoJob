@@ -10,8 +10,8 @@
     "language": "Ngôn ngữ"
   },
   "videoSection": {
-    "hotJobs": "Công việc Phổ biến",
-    "videoResumeDesc": "Tải lên sơ yếu lý lịch video để thể hiện con người thật của bạn"
+    "hotJobs": "Công việc hấp dẫn",
+    "videoResumeDesc": "Khám phá tài năng của ứng viên và cơ hội từ doanh nghiệp"
   },
   "jobTitles": {
     "projectDirector": "Giám đốc Dự án",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ người dùng đã tìm được công việc mơ ước"
   },
   "hrVideoSection": {
-    "title": "Video giới thiệu từ các chuyên gia HR hàng đầu",
-    "subtitle": "Hiểu được những gì nhà tuyển dụng thực sự nghĩ"
+    "title": "Giải thích video từ HR doanh nghiệp hàng đầu",
+    "subtitle": "Hiểu tiêu chuẩn tuyển dụng nội bộ ngành và kỹ năng phỏng vấn"
   }
 }

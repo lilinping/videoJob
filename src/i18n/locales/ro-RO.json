@@ -11,7 +11,7 @@
   },
   "videoSection": {
     "hotJobs": "Locuri de muncă populare",
-    "videoResumeDesc": "Încărcați CV-ul video pentru a vă arăta adevărata personalitate"
+    "videoResumeDesc": "Descoperiți talentele candidaților și oportunitățile de la companii"
   },
   "jobTitles": {
     "projectDirector": "Director de proiect",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ utilizatori și-au găsit jobul ideal"
   },
   "hrVideoSection": {
-    "title": "Recomandări video de la profesioniști HR de top",
-    "subtitle": "Înțelegeți ce gândesc cu adevărat recrutorii"
+    "title": "Explicații de la HR-ul companiilor de top",
+    "subtitle": "Aflați despre standardele de recrutare și tehnicile de interviu din industrie"
   }
 }

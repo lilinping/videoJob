@@ -10,8 +10,8 @@
     "language": "Kieli"
   },
   "videoSection": {
-    "hotJobs": "Suositut työpaikat",
-    "videoResumeDesc": "Lataa video-ansioluettelosi näyttääksesi todellisen itsesi"
+    "hotJobs": "Suosittuja lyhytvideoita",
+    "videoResumeDesc": "Tutki hakijoiden lahjakkuuksia ja yritysten tarjoamia mahdollisuuksia"
   },
   "jobTitles": {
     "projectDirector": "Projektipäällikkö",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ käyttäjää on löytänyt unelmatyönsä"
   },
   "hrVideoSection": {
-    "title": "HR-videosuositukset johtavilta yrityksiltä",
-    "subtitle": "Ymmärrä mitä haastattelijat todella ajattelevat"
+    "title": "Johtavien yritysten HR-selostusvideot",
+    "subtitle": "Opi alan sisäiset rekrytointistandardit ja haastattelutekniikat"
   }
 }

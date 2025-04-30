@@ -10,8 +10,8 @@
     "language": "Idioma"
   },
   "videoSection": {
-    "hotJobs": "Trabajos Populares",
-    "videoResumeDesc": "Sube tu currículum en video para mostrar tu verdadero yo"
+    "hotJobs": "Vídeos cortos populares",
+    "videoResumeDesc": "Explora el talento de los candidatos y las oportunidades que ofrecen las empresas"
   },
   "jobTitles": {
     "projectDirector": "Director de Proyecto",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ usuarios han encontrado su trabajo ideal"
   },
   "hrVideoSection": {
-    "title": "Recomendaciones en Video de RRHH de Empresas Líderes",
-    "subtitle": "Comprende lo que los Entrevistadores Realmente Piensan"
+    "title": "Vídeos explicativos de RRHH de empresas líderes",
+    "subtitle": "Conoce los estándares internos de contratación y técnicas de entrevista del sector"
   }
 }

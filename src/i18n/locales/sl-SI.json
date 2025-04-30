@@ -11,7 +11,7 @@
   },
   "videoSection": {
     "hotJobs": "Priljubljena delovna mesta",
-    "videoResumeDesc": "Naložite svoj video življenjepis in pokažite svoj pravi jaz"
+    "videoResumeDesc": "Odkrijte talente kandidatov in priložnosti podjetij"
   },
   "jobTitles": {
     "projectDirector": "Direktor projekta",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ uporabnikov je našlo svojo idealno službo"
   },
   "hrVideoSection": {
-    "title": "Video priporočila vodilnih HR strokovnjakov",
-    "subtitle": "Razumite, kaj kadrovniki resnično razmišljajo"
+    "title": "Pojasnila HR vodilnih podjetij",
+    "subtitle": "Spoznajte standarde zaposlovanja in tehnike intervjuja v panogi"
   }
 }

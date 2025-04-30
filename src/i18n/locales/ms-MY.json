@@ -10,8 +10,8 @@
     "language": "Bahasa"
   },
   "videoSection": {
-    "hotJobs": "Kerja Popular",
-    "videoResumeDesc": "Muat naik resume video anda untuk menunjukkan diri anda yang sebenar"
+    "hotJobs": "Video Pendek Popular",
+    "videoResumeDesc": "Terokai bakat pencari kerja dan peluang daripada syarikat"
   },
   "jobTitles": {
     "projectDirector": "Pengarah Projek",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ pengguna telah mencari kerja impian mereka"
   },
   "hrVideoSection": {
-    "title": "Cadangan Video daripada Pakar HR Terkemuka",
-    "subtitle": "Fahami Apa yang Sebenarnya Difikirkan oleh Perekrut"
+    "title": "Video Penerangan HR Syarikat Terkemuka",
+    "subtitle": "Fahami standard pengambilan pekerja industri dan teknik temuduga"
   }
 }

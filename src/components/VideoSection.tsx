@@ -16,12 +16,12 @@ const JobCard: React.FC<JobCardProps> = ({ thumbnail, position, company, salary,
   return (
     <div className="relative group flex flex-col">
       <div className="rounded-2xl overflow-hidden bg-gray-900">
-        <div className="relative h-full aspect-[3/4] sm:aspect-[4/5] md:aspect-[3/4]">
+        <div className="relative aspect-[3/4] sm:aspect-[4/5] md:aspect-[3/4]">
           {/* Video thumbnail */}
           <img
             src={thumbnail}
             alt={position}
-            className="w-full h-full object-cover"
+            className="w-full object-cover"
           />
 
           {/* Play button overlay */}
@@ -138,13 +138,15 @@ const VideoSection: React.FC = () => {
   ];
 
   return (
-    <section className="py-10 md:py-16 container mx-auto px-4">
-      <h2 className="text-xl md:text-2xl font-bold mb-1 md:mb-2 text-center">{t('videoSection.hotJobs')}</h2>
-      <p className="text-sm md:text-base text-gray-400 mb-6 md:mb-8 text-center">{t('videoSection.videoResumeDesc')}</p>
-      <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 sm:gap-3 md:gap-4">
-        {jobs.map((job, index) => (
-          <JobCard key={index} {...job} />
-        ))}
+    <section className="py-10 md:py-16">
+      <div className="max-w-7xl mx-auto px-6 md:px-8 lg:px-12">
+        <h2 className="text-xl md:text-2xl font-bold mb-1 md:mb-2 text-center">{t('videoSection.hotJobs')}</h2>
+        <p className="text-sm md:text-base text-gray-400 mb-6 md:mb-8 text-center">{t('videoSection.videoResumeDesc')}</p>
+        <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 sm:gap-3 md:gap-4">
+          {jobs.map((job, index) => (
+            <JobCard key={index} {...job} />
+          ))}
+        </div>
       </div>
     </section>
   );

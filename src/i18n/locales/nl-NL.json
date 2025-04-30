@@ -10,8 +10,8 @@
     "language": "Taal"
   },
   "videoSection": {
-    "hotJobs": "Populaire Banen",
-    "videoResumeDesc": "Upload je video-CV om de echte jij te laten zien"
+    "hotJobs": "Populaire korte video's",
+    "videoResumeDesc": "Ontdek de talenten van sollicitanten en de kansen die bedrijven bieden"
   },
   "jobTitles": {
     "projectDirector": "Projectdirecteur",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ gebruikers hebben hun droombaan gevonden"
   },
   "hrVideoSection": {
-    "title": "Video-aanbevelingen van Toonaangevende HR-professionals",
-    "subtitle": "Begrijp wat Recruiters Echt Denken"
+    "title": "Uitlegvideo's van HR van topbedrijven",
+    "subtitle": "Leer over de wervingsnormen en sollicitatietechnieken in de branche"
   }
 }

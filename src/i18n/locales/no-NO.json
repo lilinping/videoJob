@@ -10,8 +10,8 @@
     "language": "Språk"
   },
   "videoSection": {
-    "hotJobs": "Populære jobber",
-    "videoResumeDesc": "Last opp video-CV-en din for å vise ditt sanne jeg"
+    "hotJobs": "Populære korte videoer",
+    "videoResumeDesc": "Utforsk talentene til jobbsøkere og mulighetene som bedrifter tilbyr"
   },
   "jobTitles": {
     "projectDirector": "Prosjektdirektør",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ brukere har funnet drømmejobben"
   },
   "hrVideoSection": {
-    "title": "Videoanbefalinger fra ledende HR-folk",
-    "subtitle": "Forstå hva rekrutterere virkelig tenker"
+    "title": "Forklaringsvideoer fra HR i ledende bedrifter",
+    "subtitle": "Lær om bransjens rekrutteringsstandarder og intervjuteknikker"
   }
 }

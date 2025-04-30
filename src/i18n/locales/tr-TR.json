@@ -10,8 +10,8 @@
     "language": "Dil"
   },
   "videoSection": {
-    "hotJobs": "Popüler İşler",
-    "videoResumeDesc": "Gerçek sizi göstermek için video özgeçmişinizi yükleyin"
+    "hotJobs": "Popüler İlanlar",
+    "videoResumeDesc": "Adayların yeteneklerini ve şirket fırsatlarını keşfedin"
   },
   "jobTitles": {
     "projectDirector": "Proje Direktörü",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ kullanıcı hayalindeki işi buldu"
   },
   "hrVideoSection": {
-    "title": "Önde Gelen İK Uzmanlarından Video Önerileri",
-    "subtitle": "İşe Alım Uzmanlarının Gerçekte Ne Düşündüğünü Anlayın"
+    "title": "Önde Gelen Şirketlerden HR Açıklamaları",
+    "subtitle": "Sektördeki işe alım standartlarını ve mülakat tekniklerini öğrenin"
   }
 }

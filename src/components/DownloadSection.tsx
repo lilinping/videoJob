@@ -6,7 +6,7 @@ const DownloadSection: React.FC = () => {
   
   return (
     <section className="bg-[#0A0A0A] py-8 md:py-10">
-      <div className="container mx-auto px-4 md:px-12">
+      <div className="max-w-7xl mx-auto px-6 md:px-8 lg:px-12">
         <div className="relative min-h-[300px] md:h-[420px] overflow-hidden rounded-[16px] md:rounded-[32px]">
           {/* 背景图装饰 */}
           <div className="absolute inset-0 w-full h-full flex items-center justify-center">

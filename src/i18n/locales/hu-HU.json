@@ -10,8 +10,8 @@
     "language": "Nyelv"
   },
   "videoSection": {
-    "hotJobs": "Népszerű állások",
-    "videoResumeDesc": "Töltse fel videó önéletrajzát, hogy megmutassa valódi énjét"
+    "hotJobs": "Népszerű rövid videók",
+    "videoResumeDesc": "Fedezze fel a jelentkezők tehetségét és a vállalatok által kínált lehetőségeket"
   },
   "jobTitles": {
     "projectDirector": "Projektmenedzser",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ felhasználó találta meg álommunkáját"
   },
   "hrVideoSection": {
-    "title": "Videóajánlások vezető HR szakemberektől",
-    "subtitle": "Értse meg, mit gondolnak valójában a HR szakemberek"
+    "title": "Vezető vállalatok HR magyarázó videói",
+    "subtitle": "Ismerje meg az iparág belülről alkalmazott toborzási szabványait és interjútechnikáit"
   }
 }

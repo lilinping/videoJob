@@ -11,7 +11,7 @@
   },
   "videoSection": {
     "hotJobs": "Populära jobb",
-    "videoResumeDesc": "Ladda upp ditt video-CV för att visa ditt sanna jag"
+    "videoResumeDesc": "Upptäck kandidaters talanger och möjligheter från företag"
   },
   "jobTitles": {
     "projectDirector": "Projektdirektör",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ användare har hittat sitt drömjobb"
   },
   "hrVideoSection": {
-    "title": "Videorekommendationer från ledande HR-experter",
-    "subtitle": "Förstå vad rekryterare verkligen tänker"
+    "title": "Förklaringar från HR på ledande företag",
+    "subtitle": "Lär dig om branschens rekryteringsstandarder och intervjutekniker"
   }
 }

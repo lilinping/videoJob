@@ -20,7 +20,7 @@ const Navbar: React.FC = () => {
 
   return (
     <nav className="bg-black border-b border-gray-800 fixed top-0 left-0 right-0 z-50">
-      <div className="container mx-auto px-4">
+      <div className="max-w-7xl mx-auto px-6 md:px-8 lg:px-12">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center">
@@ -83,7 +83,7 @@ const Navbar: React.FC = () => {
       {/* Mobile menu */}
       {isMenuOpen && (
         <div className="fixed inset-0 z-50 bg-black/95 pt-16 overflow-y-auto md:hidden">
-          <div className="container mx-auto px-4 py-6 flex flex-col gap-6">
+          <div className="max-w-7xl mx-auto px-6 py-6 flex flex-col gap-6">
             {/* Close button at the top right corner of mobile menu */}
             <button 
               onClick={toggleMenu}

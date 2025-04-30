@@ -66,13 +66,15 @@ const HRVideoSection: React.FC = () => {
   ];
 
   return (
-    <section className="py-10 md:py-16 container mx-auto px-4">
-      <h2 className="text-xl md:text-2xl font-bold mb-1 md:mb-2 text-center">{t('hrVideoSection.title')}</h2>
-      <p className="text-sm md:text-base text-gray-400 mb-6 md:mb-8 text-center">{t('hrVideoSection.subtitle')}</p>
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
-        {videos.map((video, index) => (
-          <HRVideoCard key={index} {...video} />
-        ))}
+    <section className="py-10 md:py-16">
+      <div className="max-w-7xl mx-auto px-6 md:px-8 lg:px-12">
+        <h2 className="text-xl md:text-2xl font-bold mb-1 md:mb-2 text-center">{t('hrVideoSection.title')}</h2>
+        <p className="text-sm md:text-base text-gray-400 mb-6 md:mb-8 text-center">{t('hrVideoSection.subtitle')}</p>
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
+          {videos.map((video, index) => (
+            <HRVideoCard key={index} {...video} />
+          ))}
+        </div>
       </div>
     </section>
   );

@@ -10,8 +10,8 @@
     "language": "Język"
   },
   "videoSection": {
-    "hotJobs": "Popularne Oferty Pracy",
-    "videoResumeDesc": "Prześlij swoje wideo CV, aby pokazać prawdziwego siebie"
+    "hotJobs": "Popularne krótkie filmy",
+    "videoResumeDesc": "Odkryj talenty kandydatów i możliwości oferowane przez firmy"
   },
   "jobTitles": {
     "projectDirector": "Dyrektor Projektu",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ użytkowników znalazło wymarzoną pracę"
   },
   "hrVideoSection": {
-    "title": "Rekomendacje Wideo od Wiodących Specjalistów HR",
-    "subtitle": "Zrozum, co Naprawdę Myślą Rekruterzy"
+    "title": "Filmy wyjaśniające od HR wiodących firm",
+    "subtitle": "Poznaj standardy rekrutacji w branży i techniki rozmów kwalifikacyjnych"
   }
 }

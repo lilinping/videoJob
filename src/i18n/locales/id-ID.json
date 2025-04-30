@@ -10,8 +10,8 @@
     "language": "Bahasa"
   },
   "videoSection": {
-    "hotJobs": "Pekerjaan Populer",
-    "videoResumeDesc": "Unggah resume video Anda untuk menunjukkan diri Anda yang sebenarnya"
+    "hotJobs": "Video Pendek Terpopuler",
+    "videoResumeDesc": "Jelajahi bakat pencari kerja dan peluang yang ditawarkan perusahaan"
   },
   "jobTitles": {
     "projectDirector": "Direktur Proyek",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ pengguna telah menemukan pekerjaan impian mereka"
   },
   "hrVideoSection": {
-    "title": "Rekomendasi Video dari Para Profesional HR Terkemuka",
-    "subtitle": "Pahami Apa yang Sebenarnya Dipikirkan oleh Perekrut"
+    "title": "Video Penjelasan HR Perusahaan Terkemuka",
+    "subtitle": "Pahami standar rekrutmen internal industri dan teknik wawancara"
   }
 }

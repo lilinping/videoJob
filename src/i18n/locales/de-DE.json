@@ -10,8 +10,8 @@
     "language": "Sprache"
   },
   "videoSection": {
-    "hotJobs": "Beliebte Jobs",
-    "videoResumeDesc": "Laden Sie Ihren Video-Lebenslauf hoch, um Ihr wahres Ich zu zeigen"
+    "hotJobs": "Beliebte Kurzvideos",
+    "videoResumeDesc": "Entdecken Sie die Talente der Bewerber und die Möglichkeiten der Unternehmen"
   },
   "jobTitles": {
     "projectDirector": "Projektleiter",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ Nutzer haben ihren idealen Job gefunden"
   },
   "hrVideoSection": {
-    "title": "Video-Empfehlungen von führenden HR-Experten",
-    "subtitle": "Verstehen Sie, was Personalverantwortliche wirklich denken"
+    "title": "Erklärvideos der Personalabteilung führender Unternehmen",
+    "subtitle": "Lernen Sie die internen Einstellungsstandards und Interviewtechniken der Branche kennen"
   }
 }

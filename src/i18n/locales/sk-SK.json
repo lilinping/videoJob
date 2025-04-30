@@ -11,7 +11,7 @@
   },
   "videoSection": {
     "hotJobs": "Populárne pracovné miesta",
-    "videoResumeDesc": "Nahrajte svoj video životopis a ukážte svoje pravé ja"
+    "videoResumeDesc": "Objavte talenty kandidátov a príležitosti od spoločností"
   },
   "jobTitles": {
     "projectDirector": "Riaditeľ projektu",
@@ -46,7 +46,7 @@
     "userStats": "{{count}}+ používateľov našlo svoju ideálnu prácu"
   },
   "hrVideoSection": {
-    "title": "Video odporúčania od popredných HR odborníkov",
-    "subtitle": "Pochopte, čo si náborári skutočne myslia"
+    "title": "Vysvetlenia od HR popredných spoločností",
+    "subtitle": "Zoznámte sa so štandardmi náboru a technikami pohovorov v odvetví"
   }
 }
