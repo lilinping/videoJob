@@ -24,8 +24,8 @@
     "marketingConsultant": "Tư vấn Marketing"
   },
   "common": {
-    "consult": "Tư vấn",
-    "submitResume": "Nộp Sơ yếu lý lịch",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} lượt xem"
   },
   "partners": {

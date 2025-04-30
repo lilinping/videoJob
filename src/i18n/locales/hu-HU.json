@@ -24,8 +24,8 @@
     "marketingConsultant": "Marketing tanácsadó"
   },
   "common": {
-    "consult": "Konzultáció",
-    "submitResume": "Önéletrajz beküldése",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} megtekintés"
   },
   "partners": {

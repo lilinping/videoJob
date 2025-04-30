@@ -24,8 +24,8 @@
     "marketingConsultant": "Markedsføringskonsulent"
   },
   "common": {
-    "consult": "Konsulter",
-    "submitResume": "Send inn CV",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} visninger"
   },
   "partners": {

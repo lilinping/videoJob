@@ -24,8 +24,8 @@
     "marketingConsultant": "Konsultan Pemasaran"
   },
   "common": {
-    "consult": "Konsultasi",
-    "submitResume": "Kirim Resume",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} tayangan"
   },
   "partners": {

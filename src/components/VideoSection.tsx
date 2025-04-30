@@ -93,39 +93,35 @@ const VideoSection: React.FC = () => {
   const talents = [
     {
       thumbnail: '/job1.png',
-      // position: t('jobTitles.projectDirector'),
-      position: 'Emily Thompson',
+      position: 'David Brown',
       company: 'USA · Wispr Flow',
       salary: '15k-25k',
-      description: '哈喽，你好，我是Emily Thompson，这是...',
-      views: '1.2w喜欢'
+      description: 'Hello, I am David Brown, this is...',
+      views: '1.2w likes'
     },
     {
       thumbnail: '/job2.png',
-      // position: t('jobTitles.projectAssistant'),
       position: 'James Carter',
       company: 'USA · Renew Home',
       salary: '8k-10k',
-      description: '哈喽，你好，来自英国的老师，你...',
-      views: '1.2w喜欢'
+      description: 'Hello, I am a teacher from UK...',
+      views: '1.2w likes'
     },
     {
       thumbnail: '/job3.png',
-      // position: t('jobTitles.mediaOperator'),
       position: 'Sophie Martin',
       company: 'USA · Teladoc Health',
       salary: '15k-25k',
-      description: '这是我的自我介绍，请仔细观看视频...',
-      views: '1.2w喜欢'
+      description: 'This is my self-introduction, please watch...',
+      views: '1.2w likes'
     },
     {
       thumbnail: '/job4.png',
-      // position: t('jobTitles.videoEditor'),
       position: "Liam O'Connor",
       company: 'USA · Airbnb',
       salary: '7k-12k',
-      description: '这是我的自我介绍，请仔细观看视频...',
-      views: '1.2w喜欢'
+      description: 'This is my self-introduction, please watch...',
+      views: '1.2w likes'
     },
   ];
   
@@ -135,32 +131,32 @@ const VideoSection: React.FC = () => {
       position: t('jobTitles.surveyor'),
       company: 'USA · ReliefWeb',
       salary: '10k-15k',
-      description: '这个办公场地绝对是你想不到的地方',
-      views: '1.2w喜欢'
+      description: 'This office space is absolutely beyond your...',
+      views: '1.2w likes'
     },
     {
       thumbnail: '/job6.png',
       position: t('jobTitles.designer'),
       company: 'USA · F2Onsite',
       salary: '30k-50k',
-      description: '世界500强公司的办公环境，快来看...',
-      views: '1.2w看过'
+      description: 'Office environment of Fortune 500 companies, come and see...',
+      views: '1.2w views'
     },
     {
       thumbnail: '/job7.png',
       position: t('jobTitles.salesConsultant'),
       company: 'USA · Pfizer Inc.',
       salary: '10k-20k',
-      description: '走进辉瑞制药',
-      views: '1.2w喜欢'
+      description: 'Walk into Pfizer Pharmaceuticals',
+      views: '1.2w likes'
     },
     {
       thumbnail: '/job8.png',
       position: t('jobTitles.marketingConsultant'),
       company: 'DE · SIEMENS AG',
       salary: '10k-20k',
-      description: '走进西门子，观看视频',
-      views: '1.2w喜欢'
+      description: 'Walk into Siemens, watch the video',
+      views: '1.2w likes'
     }
   ];
 
@@ -168,8 +164,8 @@ const VideoSection: React.FC = () => {
     <section className="py-10 md:py-16">
       <div className="max-w-7xl mx-auto px-6 md:px-8 lg:px-12">
         {/* Trending Talents Section */}
-        <h1 className="text-xl md:text-2xl lg:text-4xl font-bold mb-1 md:mb-2 text-center">{t('videoSection.hotJobs')}</h1>
-        <p className="text-sm md:text-base text-gray-400 mb-6 md:mb-8 text-center">{t('videoSection.videoResumeDesc')}</p>
+        <h1 className="text-xl md:text-2xl lg:text-4xl font-bold mb-6 md:mb-8 text-center">{t('videoSection.hotJobs')}</h1>
+        {/* <p className="text-sm md:text-base text-gray-400 mb-6 md:mb-8 text-center">{t('videoSection.videoResumeDesc')}</p> */}
         
         {/* Mobile carousel for talents */}
         <div 
@@ -202,7 +198,7 @@ const VideoSection: React.FC = () => {
         {/* Divider with text */}
         <div className="flex items-center my-10 md:my-16">
           <div className="flex-grow h-px bg-gray-600"></div>
-          <span className="px-4 text-white text-lg font-medium">{t('videoSection.jdTalk')}</span>
+          <span className="text-xl md:text-2xl lg:text-4xl font-bold mb-1 md:mb-2 text-center">{t('videoSection.jdTalk')}</span>
           <div className="flex-grow h-px bg-gray-600"></div>
         </div>
         

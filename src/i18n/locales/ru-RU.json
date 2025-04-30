@@ -24,8 +24,8 @@
     "marketingConsultant": "Консультант по маркетингу"
   },
   "common": {
-    "consult": "Консультация",
-    "submitResume": "Отправить резюме",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} просмотров"
   },
   "partners": {

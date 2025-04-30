@@ -24,8 +24,8 @@
     "marketingConsultant": "मार्केटिंग कंसल्टेंट"
   },
   "common": {
-    "consult": "परामर्श",
-    "submitResume": "रिज्यूमे जमा करें",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} बार देखा गया"
   },
   "partners": {

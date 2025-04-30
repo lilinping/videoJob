@@ -24,8 +24,8 @@
     "marketingConsultant": "Konsultant Marketingowy"
   },
   "common": {
-    "consult": "Konsultuj",
-    "submitResume": "Prześlij CV",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} wyświetleń"
   },
   "partners": {

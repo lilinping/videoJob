@@ -24,8 +24,8 @@
     "marketingConsultant": "Marketinški svetovalec"
   },
   "common": {
-    "consult": "Posvetovanje",
-    "submitResume": "Oddaj življenjepis",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} ogledov"
   },
   "partners": {

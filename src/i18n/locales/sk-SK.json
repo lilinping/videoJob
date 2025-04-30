@@ -24,8 +24,8 @@
     "marketingConsultant": "Marketingový konzultant"
   },
   "common": {
-    "consult": "Konzultovať",
-    "submitResume": "Odoslať životopis",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} zobrazení"
   },
   "partners": {

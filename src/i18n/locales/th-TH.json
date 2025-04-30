@@ -24,8 +24,8 @@
     "marketingConsultant": "ที่ปรึกษาการตลาด"
   },
   "common": {
-    "consult": "ปรึกษา",
-    "submitResume": "ส่งประวัติย่อ",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} ครั้ง"
   },
   "partners": {

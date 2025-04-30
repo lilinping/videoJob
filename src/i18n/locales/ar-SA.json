@@ -24,8 +24,8 @@
     "marketingConsultant": "مستشار تسويق"
   },
   "common": {
-    "consult": "استشارة",
-    "submitResume": "تقديم السيرة الذاتية",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} مشاهدة"
   },
   "partners": {

@@ -27,8 +27,8 @@
     "marketingConsultant": "Marketing Consultant"
   },
   "common": {
-    "consult": "Consult",
-    "submitResume": "Submit Resume",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} views",
     "views": "views",
     "new": "NEW"

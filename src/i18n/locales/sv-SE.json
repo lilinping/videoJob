@@ -24,8 +24,8 @@
     "marketingConsultant": "Marknadsföringskonsult"
   },
   "common": {
-    "consult": "Konsultera",
-    "submitResume": "Skicka in CV",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} visningar"
   },
   "partners": {

@@ -24,8 +24,8 @@
     "marketingConsultant": "Consulente Marketing"
   },
   "common": {
-    "consult": "Consulta",
-    "submitResume": "Invia Curriculum",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} visualizzazioni"
   },
   "partners": {

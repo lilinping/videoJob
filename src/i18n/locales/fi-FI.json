@@ -24,8 +24,8 @@
     "marketingConsultant": "Markkinointikonsultti"
   },
   "common": {
-    "consult": "Konsultoi",
-    "submitResume": "Lähetä ansioluettelo",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} katselukertaa"
   },
   "partners": {

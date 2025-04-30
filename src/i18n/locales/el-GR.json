@@ -24,8 +24,8 @@
     "marketingConsultant": "Σύμβουλος μάρκετινγκ"
   },
   "common": {
-    "consult": "Συμβουλευτείτε",
-    "submitResume": "Υποβολή βιογραφικού",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} προβολές"
   },
   "partners": {

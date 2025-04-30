@@ -24,8 +24,8 @@
     "marketingConsultant": "Pazarlama Danışmanı"
   },
   "common": {
-    "consult": "Danış",
-    "submitResume": "Özgeçmiş Gönder",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} görüntüleme"
   },
   "partners": {

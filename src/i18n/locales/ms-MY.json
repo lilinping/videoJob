@@ -24,8 +24,8 @@
     "marketingConsultant": "Perunding Pemasaran"
   },
   "common": {
-    "consult": "Rujuk",
-    "submitResume": "Hantar Resume",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} tontonan"
   },
   "partners": {

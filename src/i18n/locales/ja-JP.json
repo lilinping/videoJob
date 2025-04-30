@@ -25,8 +25,8 @@
     "marketingConsultant": "マーケティングコンサルタント"
   },
   "common": {
-    "consult": "相談",
-    "submitResume": "履歴書を提出",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}}回視聴"
   },
   "partners": {

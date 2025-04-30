@@ -24,8 +24,8 @@
     "marketingConsultant": "Marketingconsulent"
   },
   "common": {
-    "consult": "Raadplegen",
-    "submitResume": "CV Indienen",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} weergaven"
   },
   "partners": {
