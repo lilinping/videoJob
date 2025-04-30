@@ -69,13 +69,33 @@ const JobCard: React.FC<JobCardProps> = ({ thumbnail, position, company, salary,
 
 const VideoSection: React.FC = () => {
   const { t } = useTranslation();
+  const [isHovered, setIsHovered] = React.useState(false);
   
+  // 自动滚动逻辑
+  React.useEffect(() => {
+    const scrollContainers = document.querySelectorAll('.scroll-container');
+    
+    const scroll = () => {
+      scrollContainers.forEach(container => {
+        if (!isHovered && container) {
+          container.scrollLeft += 1;
+          if (container.scrollLeft >= container.scrollWidth - container.clientWidth) {
+            container.scrollLeft = 0;
+          }
+        }
+      });
+    };
+    
+    const scrollInterval = setInterval(scroll, 30);
+    return () => clearInterval(scrollInterval);
+  }, [isHovered]);
+
   const talents = [
     {
       thumbnail: '/job1.png',
       // position: t('jobTitles.projectDirector'),
       position: 'Emily Thompson',
-      company: '意大利 · 某科技有限公司',
+      company: 'USA · Wispr Flow',
       salary: '15k-25k',
       description: '哈喽，你好，我是Emily Thompson，这是...',
       views: '1.2w喜欢'
@@ -84,7 +104,7 @@ const VideoSection: React.FC = () => {
       thumbnail: '/job2.png',
       // position: t('jobTitles.projectAssistant'),
       position: 'James Carter',
-      company: '意大利·某科技有限公司',
+      company: 'USA · Renew Home',
       salary: '8k-10k',
       description: '哈喽，你好，来自英国的老师，你...',
       views: '1.2w喜欢'
@@ -93,7 +113,7 @@ const VideoSection: React.FC = () => {
       thumbnail: '/job3.png',
       // position: t('jobTitles.mediaOperator'),
       position: 'Sophie Martin',
-      company: '意大利·某科技有限公司',
+      company: 'USA · Teladoc Health',
       salary: '15k-25k',
       description: '这是我的自我介绍，请仔细观看视频...',
       views: '1.2w喜欢'
@@ -102,7 +122,7 @@ const VideoSection: React.FC = () => {
       thumbnail: '/job4.png',
       // position: t('jobTitles.videoEditor'),
       position: "Liam O'Connor",
-      company: '意大利·某科技有限公司',
+      company: 'USA · Airbnb',
       salary: '7k-12k',
       description: '这是我的自我介绍，请仔细观看视频...',
       views: '1.2w喜欢'
@@ -113,7 +133,7 @@ const VideoSection: React.FC = () => {
     {
       thumbnail: '/job5.png',
       position: t('jobTitles.surveyor'),
-      company: '意大利·某科技有限公司',
+      company: 'USA · ReliefWeb',
       salary: '10k-15k',
       description: '这个办公场地绝对是你想不到的地方',
       views: '1.2w喜欢'
@@ -121,7 +141,7 @@ const VideoSection: React.FC = () => {
     {
       thumbnail: '/job6.png',
       position: t('jobTitles.designer'),
-      company: '意大利·某科技有限公司',
+      company: 'USA · F2Onsite',
       salary: '30k-50k',
       description: '世界500强公司的办公环境，快来看...',
       views: '1.2w看过'
@@ -129,7 +149,7 @@ const VideoSection: React.FC = () => {
     {
       thumbnail: '/job7.png',
       position: t('jobTitles.salesConsultant'),
-      company: '意大利·某科技有限公司',
+      company: 'USA · Pfizer Inc.',
       salary: '10k-20k',
       description: '走进辉瑞制药',
       views: '1.2w喜欢'
@@ -137,7 +157,7 @@ const VideoSection: React.FC = () => {
     {
       thumbnail: '/job8.png',
       position: t('jobTitles.marketingConsultant'),
-      company: '意大利·某科技有限公司',
+      company: 'DE · SIEMENS AG',
       salary: '10k-20k',
       description: '走进西门子，观看视频',
       views: '1.2w喜欢'
@@ -150,7 +170,30 @@ const VideoSection: React.FC = () => {
         {/* Trending Talents Section */}
         <h1 className="text-xl md:text-2xl lg:text-4xl font-bold mb-1 md:mb-2 text-center">{t('videoSection.hotJobs')}</h1>
         <p className="text-sm md:text-base text-gray-400 mb-6 md:mb-8 text-center">{t('videoSection.videoResumeDesc')}</p>
-        <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-2 sm:gap-3 md:gap-4">
+        
+        {/* Mobile carousel for talents */}
+        <div 
+          className="md:hidden overflow-x-auto whitespace-nowrap pb-4 -mx-4 px-4 scroll-container"
+          onMouseEnter={() => setIsHovered(true)}
+          onMouseLeave={() => setIsHovered(false)}
+        >
+          <div className="inline-flex space-x-4">
+            {talents.map((talent, index) => (
+              <div key={index} className="w-[calc(50vw-24px)] inline-block"> {/* 修改为50vw宽度 */}
+                <JobCard {...talent} />
+              </div>
+            ))}
+            {/* 复制一份用于无缝滚动 */}
+            {talents.map((talent, index) => (
+              <div key={`copy-${index}`} className="w-[calc(50vw-24px)] inline-block"> {/* 修改为50vw宽度 */}
+                <JobCard {...talent} />
+              </div>
+            ))}
+          </div>
+        </div>
+        
+        {/* Desktop grid for talents */}
+        <div className="hidden md:grid grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-3 md:gap-4">
           {talents.map((talent, index) => (
             <JobCard key={index} {...talent} />
           ))}
@@ -163,10 +206,29 @@ const VideoSection: React.FC = () => {
           <div className="flex-grow h-px bg-gray-600"></div>
         </div>
         
-        {/* Hot Jobs Section */}
-        {/* <h1 className="text-xl md:text-2xl lg:text-4xl font-bold mb-1 md:mb-2 text-center">Hot Jobs</h1>
-        <p className="text-sm md:text-base text-gray-400 mb-6 md:mb-8 text-center">{t('videoSection.videoResumeDesc')}</p> */}
-        <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-2 sm:gap-3 md:gap-4">
+        {/* Mobile carousel for jobs */}
+        <div 
+          className="md:hidden overflow-x-auto whitespace-nowrap pb-4 -mx-4 px-4 scroll-container"
+          onMouseEnter={() => setIsHovered(true)}
+          onMouseLeave={() => setIsHovered(false)}
+        >
+          <div className="inline-flex space-x-4">
+            {jobs.map((job, index) => (
+              <div key={index} className="w-[calc(50vw-24px)] inline-block"> {/* 修改为50vw宽度 */}
+                <JobCard {...job} />
+              </div>
+            ))}
+            {/* 复制一份用于无缝滚动 */}
+            {jobs.map((job, index) => (
+              <div key={`copy-${index}`} className="w-[calc(50vw-24px)] inline-block"> {/* 修改为50vw宽度 */}
+                <JobCard {...job} />
+              </div>
+            ))}
+          </div>
+        </div>
+        
+        {/* Desktop grid for jobs */}
+        <div className="hidden md:grid grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-3 md:gap-4">
           {jobs.map((job, index) => (
             <JobCard key={index} {...job} />
           ))}
