@@ -70,20 +70,20 @@ const JobCard: React.FC<JobCardProps> = ({ thumbnail, position, company, salary,
 const VideoSection: React.FC = () => {
   const { t } = useTranslation();
   
-  const jobs = [
+  const talents = [
     {
       thumbnail: '/job1.png',
-      position: t('jobTitles.projectDirector'),
-      // position: '项目总监',
+      // position: t('jobTitles.projectDirector'),
+      position: 'Emily Thompson',
       company: '意大利 · 某科技有限公司',
       salary: '15k-25k',
-      description: '哈喽，你好，我是Moritz，这是我的...',
+      description: '哈喽，你好，我是Emily Thompson，这是...',
       views: '1.2w喜欢'
     },
     {
       thumbnail: '/job2.png',
-      position: t('jobTitles.projectAssistant'),
-      // position: '项目助理',
+      // position: t('jobTitles.projectAssistant'),
+      position: 'James Carter',
       company: '意大利·某科技有限公司',
       salary: '8k-10k',
       description: '哈喽，你好，来自英国的老师，你...',
@@ -91,7 +91,8 @@ const VideoSection: React.FC = () => {
     },
     {
       thumbnail: '/job3.png',
-      position: t('jobTitles.mediaOperator'),
+      // position: t('jobTitles.mediaOperator'),
+      position: 'Sophie Martin',
       company: '意大利·某科技有限公司',
       salary: '15k-25k',
       description: '这是我的自我介绍，请仔细观看视频...',
@@ -99,12 +100,16 @@ const VideoSection: React.FC = () => {
     },
     {
       thumbnail: '/job4.png',
-      position: t('jobTitles.videoEditor'),
+      // position: t('jobTitles.videoEditor'),
+      position: "Liam O'Connor",
       company: '意大利·某科技有限公司',
       salary: '7k-12k',
       description: '这是我的自我介绍，请仔细观看视频...',
       views: '1.2w喜欢'
     },
+  ];
+  
+  const jobs = [
     {
       thumbnail: '/job5.png',
       position: t('jobTitles.surveyor'),
@@ -142,9 +147,26 @@ const VideoSection: React.FC = () => {
   return (
     <section className="py-10 md:py-16">
       <div className="max-w-7xl mx-auto px-6 md:px-8 lg:px-12">
+        {/* Trending Talents Section */}
         <h1 className="text-xl md:text-2xl lg:text-4xl font-bold mb-1 md:mb-2 text-center">{t('videoSection.hotJobs')}</h1>
         <p className="text-sm md:text-base text-gray-400 mb-6 md:mb-8 text-center">{t('videoSection.videoResumeDesc')}</p>
-        <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 sm:gap-3 md:gap-4">
+        <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-2 sm:gap-3 md:gap-4">
+          {talents.map((talent, index) => (
+            <JobCard key={index} {...talent} />
+          ))}
+        </div>
+        
+        {/* Divider with text */}
+        <div className="flex items-center my-10 md:my-16">
+          <div className="flex-grow h-px bg-gray-600"></div>
+          <span className="px-4 text-white text-lg font-medium">{t('videoSection.jdTalk')}</span>
+          <div className="flex-grow h-px bg-gray-600"></div>
+        </div>
+        
+        {/* Hot Jobs Section */}
+        {/* <h1 className="text-xl md:text-2xl lg:text-4xl font-bold mb-1 md:mb-2 text-center">Hot Jobs</h1>
+        <p className="text-sm md:text-base text-gray-400 mb-6 md:mb-8 text-center">{t('videoSection.videoResumeDesc')}</p> */}
+        <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-2 sm:gap-3 md:gap-4">
           {jobs.map((job, index) => (
             <JobCard key={index} {...job} />
           ))}

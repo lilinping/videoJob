@@ -11,6 +11,7 @@
   },
   "videoSection": {
     "hotJobs": "Popular Short Videos", 
+    "jdTalk": "Hot Jobs",
     "videoResumeDesc": "Explore talents showcased by job seekers and opportunities released by companies"
   },
   "jobTitles": {
@@ -24,8 +25,8 @@
     "marketingConsultant": "Marketing Consultant"
   },
   "common": {
-    "consult": "Consult",
-    "submitResume": "Submit Resume",
+    "consult": "Ai interview",
+    "submitResume": "resume",
     "viewCount": "{{count}} views"
   },
   "partners": {

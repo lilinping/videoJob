@@ -21,14 +21,14 @@ const Banner: React.FC = () => {
               href="#"
               className="flex items-center justify-center bg-white px-6 md:px-12 py-2 md:py-3 rounded-full border border-gray-200 hover:border-gray-300 transition-colors"
             >
-              <img src="/apple-logo.svg" alt="App Store" className="w-5 md:w-6 h-5 md:h-6 mr-2" />
+              <img src="/apple-logo.svg" alt="App Store" className="w-6 md:w-6 h-6 md:h-6 mr-2 mt-2" />
               <span className="text-black text-lg md:text-2xl">{t('banner.appStoreDownload')}</span>
             </a>
             <a
               href="#"
               className="flex items-center justify-center bg-white px-6 md:px-12 py-2 md:py-3 rounded-full border border-gray-200 hover:border-gray-300 transition-colors"
             >
-              <img src="/google-play.svg" alt="Google Play" className="w-5 md:w-6 h-5 md:h-6 mr-2" />
+              <img src="/google-play.svg" alt="Google Play" className="w-6 md:w-6 h-6 md:h-6 mr-2" />
               <span className="text-black text-lg md:text-2xl">{t('banner.googlePlayDownload')}</span>
             </a>
           </div>
