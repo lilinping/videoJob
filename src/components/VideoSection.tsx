@@ -140,7 +140,7 @@ const VideoSection: React.FC = () => {
   return (
     <section className="py-10 md:py-16">
       <div className="max-w-7xl mx-auto px-6 md:px-8 lg:px-12">
-        <h2 className="text-xl md:text-2xl font-bold mb-1 md:mb-2 text-center">{t('videoSection.hotJobs')}</h2>
+        <h1 className="text-xl md:text-2xl lg:text-4xl font-bold mb-1 md:mb-2 text-center">{t('videoSection.hotJobs')}</h1>
         <p className="text-sm md:text-base text-gray-400 mb-6 md:mb-8 text-center">{t('videoSection.videoResumeDesc')}</p>
         <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 sm:gap-3 md:gap-4">
           {jobs.map((job, index) => (

@@ -41,7 +41,11 @@ const Banner: React.FC = () => {
               <img src="/avatar2.svg" alt="user" className="w-5 h-5 md:w-6 md:h-6 rounded-full border-2 border-gray-800" />
             </div>
             <div className="text-xs md:text-sm">
-              <span className="text-gray-400">{t('banner.userStats', { count: 12500 })}</span>
+              <span className="text-gray-400">
+                {t('banner.userStats').split('{{count}}')[0]}
+                <span className="text-[#7C4DFF] font-medium">12500</span>
+                {t('banner.userStats').split('{{count}}')[1]}
+              </span>
             </div>
           </div>
         </div>
