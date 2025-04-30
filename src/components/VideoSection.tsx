@@ -74,66 +74,68 @@ const VideoSection: React.FC = () => {
     {
       thumbnail: '/job1.png',
       position: t('jobTitles.projectDirector'),
-      company: '意大利·某科技有限公司',
+      // position: '项目总监',
+      company: '意大利 · 某科技有限公司',
       salary: '15k-25k',
-      description: '你好，我是Moritz，这是我的...',
-      views: '1.2w看过'
+      description: '哈喽，你好，我是Moritz，这是我的...',
+      views: '1.2w喜欢'
     },
     {
       thumbnail: '/job2.png',
       position: t('jobTitles.projectAssistant'),
+      // position: '项目助理',
       company: '意大利·某科技有限公司',
       salary: '8k-10k',
-      description: '大家好，我是Anna，期待与你共事',
-      views: '8.5k看过'
+      description: '哈喽，你好，来自英国的老师，你...',
+      views: '1.2w喜欢'
     },
     {
       thumbnail: '/job3.png',
       position: t('jobTitles.mediaOperator'),
       company: '意大利·某科技有限公司',
       salary: '15k-25k',
-      description: '嗨，我是Sarah，热爱新媒体运营...',
-      views: '6.7k看过'
+      description: '这是我的自我介绍，请仔细观看视频...',
+      views: '1.2w喜欢'
     },
     {
       thumbnail: '/job4.png',
       position: t('jobTitles.videoEditor'),
       company: '意大利·某科技有限公司',
       salary: '7k-12k',
-      description: '你好，我是Mike，擅长视频剪辑...',
-      views: '5.3k看过'
+      description: '这是我的自我介绍，请仔细观看视频...',
+      views: '1.2w喜欢'
     },
     {
       thumbnail: '/job5.png',
       position: t('jobTitles.surveyor'),
       company: '意大利·某科技有限公司',
       salary: '10k-15k',
-      description: '大家好，我是Tom，专业测绘5年...',
-      views: '4.2k看过'
+      description: '这个办公场地绝对是你想不到的地方',
+      views: '1.2w喜欢'
     },
     {
       thumbnail: '/job6.png',
       position: t('jobTitles.designer'),
       company: '意大利·某科技有限公司',
       salary: '30k-50k',
-      description: '你好，我是Lisa，10年设计经验...',
-      views: '9.1k看过'
+      description: '世界500强公司的办公环境，快来看...',
+      views: '1.2w看过'
     },
     {
       thumbnail: '/job7.png',
       position: t('jobTitles.salesConsultant'),
       company: '意大利·某科技有限公司',
       salary: '10k-20k',
-      description: '大家好，我是Jack，销售达人...',
-      views: '7.8k看过'
+      description: '走进辉瑞制药',
+      views: '1.2w喜欢'
     },
     {
       thumbnail: '/job8.png',
       position: t('jobTitles.marketingConsultant'),
       company: '意大利·某科技有限公司',
       salary: '10k-20k',
-      description: '你好，我是Emma，市场营销专家...',
-      views: '6.4k看过'
+      description: '走进西门子，观看视频',
+      views: '1.2w喜欢'
     }
   ];
 
